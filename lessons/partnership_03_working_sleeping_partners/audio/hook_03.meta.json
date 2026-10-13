@@ -1,0 +1,17 @@
+{
+  "input_hash": "7dedb0a33dc518cf41ac3cdd",
+  "text": "Vikram's quick estimate: capitals are three to two, so Neha gets three lakh, plus her ten percent: three lakh fifty thousand. That leaves Vikram one lakh fifty thousand.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.8331
+}

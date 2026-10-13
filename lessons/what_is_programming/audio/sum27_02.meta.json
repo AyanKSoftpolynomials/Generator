@@ -1,0 +1,17 @@
+{
+  "input_hash": "ad60dffef80d1e1d301ccf5b",
+  "text": "Suppose a letter is at forward position n. Then there are n minus one letters before it, and twenty-six minus n letters after it.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.4293
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "c6a10025060ab824a7bb4826",
+  "text": "Your turn. One: which is correct: the team gave in to success, the team gave up their victory happily, the team gave in to win, or the team gave up after one attempt? Two: choose the correct form: take it for granted, take it as granted, take it with granted, or take it by granted? Three: which fits: the manager, blank, to the delays, because the client was a friend? Saw eye to eye, called it a day, turned a blind eye, or called the shots?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 30.1731
+}

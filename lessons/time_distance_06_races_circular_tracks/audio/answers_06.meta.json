@@ -1,0 +1,17 @@
+{
+  "input_hash": "8f977610aeea2ffd54bf171b",
+  "text": "Six: when A runs four hundred, B runs three hundred and sixty; B to C is four hundred to three hundred and eighty, so C runs three hundred and forty-two, and A beats C by fifty-eight metres.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.4183
+}

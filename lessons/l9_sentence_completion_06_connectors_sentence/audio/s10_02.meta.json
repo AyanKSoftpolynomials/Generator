@@ -1,0 +1,17 @@
+{
+  "input_hash": "e89f50d877849938cfa399dc",
+  "text": "Check the direction of each half first. Opposite means contrast. Same direction means a result if one causes the other, and addition if not. Use a connecting adverb after a semicolon and a conjunction after a comma.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.3922
+}

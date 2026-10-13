@@ -1,0 +1,18 @@
+{
+  "input_hash": "198221bd3f2a91d45239b6f1",
+  "text": "And option C changes the tense, from has hacked to was hacked. Option D isn't passive at all. It says the account did the hacking.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.4987
+}

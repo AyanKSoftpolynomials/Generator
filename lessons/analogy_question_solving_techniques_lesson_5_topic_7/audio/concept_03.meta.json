@@ -1,0 +1,17 @@
+{
+  "input_hash": "c22d20aa853c4e2fdb360710",
+  "text": "When the analogy is about word meaning, synonym, antonym or degree, the bridge is a vocabulary question. You need lesson one and lesson two knowledge. Obstinate is the opposite of flexible. Then you look for an antonym pair.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.5893
+}

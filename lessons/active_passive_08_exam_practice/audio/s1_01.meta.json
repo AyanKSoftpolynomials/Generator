@@ -1,0 +1,17 @@
+{
+  "input_hash": "eea8c053875d21253240a84a",
+  "text": "Six lessons of conversion, all in one direction: active to passive. Today the exam turns some of them around.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.2382
+}

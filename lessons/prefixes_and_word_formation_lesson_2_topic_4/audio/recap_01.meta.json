@@ -1,0 +1,19 @@
+{
+  "input_hash": "94a0e6624cbaf0fbbc85d1d6",
+  "text": "To recap. The in family: I-L before L, I-M before B, M and P, I-R before R, and I-N elsewhere. Un is for common native words, dis for verbs, and non for not a member of. Mis means wrongly; it's not an opposite. And the look-negative words: inflammable is flammable, invaluable is very valuable, and infamous is known for bad things.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 28.6041
+}

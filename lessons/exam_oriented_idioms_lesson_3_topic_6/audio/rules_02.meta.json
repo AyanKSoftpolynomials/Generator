@@ -1,0 +1,17 @@
+{
+  "input_hash": "8977828e3a7f88a798880e2a",
+  "text": "To throw down the gauntlet: to issue a challenge. A wild goose chase: a hopeless, pointless search. To rain cats and dogs: to rain heavily. To leave no stone unturned: to try every possible way. A bolt from the blue: a complete surprise. To have an axe to grind: to have a selfish motive. And to take the bull by the horns: to face a problem directly.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 26.6287
+}

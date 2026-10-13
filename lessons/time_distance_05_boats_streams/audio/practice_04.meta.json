@@ -1,0 +1,17 @@
+{
+  "input_hash": "f9ea30146a6b515d25794e19",
+  "text": "Level three, question six: a boat's still-water speed is ten kilometres per hour; it goes twenty-four kilometres downstream and returns in five hours in all; find the stream speed. Question seven: a boat covers twenty-four kilometres upstream and thirty-six downstream in six hours, and thirty-six upstream and twenty-four downstream in six and a half hours; find u and v. Question eight: a boat with a still-water speed of twelve kilometres per hour goes downstream and returns over the same distance, and the stream flows at four kilometres per hour; find the average speed for the round trip.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 36.4429
+}

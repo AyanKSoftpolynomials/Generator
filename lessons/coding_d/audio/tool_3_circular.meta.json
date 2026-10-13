@@ -1,0 +1,17 @@
+{
+  "input_hash": "a567f4535fc72bd6cf4a838a",
+  "text": "Tool 3: The alphabet is circular. Suppose the rule is 'move forward by 2' and the letter is Y. You go to Z, and then wrap back to A. In position terms: if a result goes above 26, subtract 26.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.4924
+}

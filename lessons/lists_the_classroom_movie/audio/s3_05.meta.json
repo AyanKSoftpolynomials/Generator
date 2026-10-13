@@ -1,0 +1,17 @@
+{
+  "input_hash": "4f4b39851462439a26f2a615",
+  "text": "Look at the structure from our question. The member data holds the value. The member next is a pointer that can hold the address of another node of the same type.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.6321
+}

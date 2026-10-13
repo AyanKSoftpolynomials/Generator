@@ -1,0 +1,18 @@
+{
+  "input_hash": "1afc9e120ab6fc842a230d05",
+  "text": "The base class, also called the parent class, is the existing class being inherited from, while the derived class, also called the child class, is the new class that inherits the base class's members, gaining access to them without rewriting a single line.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.0722
+}

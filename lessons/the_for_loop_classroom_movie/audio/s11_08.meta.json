@@ -1,0 +1,17 @@
+{
+  "input_hash": "c3dd14dfb5de278cfb62ffef",
+  "text": "So what if a loop needed no counter at all? What if you could simply say, for each mark in this list, do this?",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.8717
+}

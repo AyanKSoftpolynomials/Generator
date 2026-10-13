@@ -1,0 +1,19 @@
+{
+  "input_hash": "f2a2ca18a44ce826ac431766",
+  "text": "Level two, question three: six kilograms of dal at twenty-five rupees is mixed with four kilograms at fifty; find the price. Question four: five litres of water is added to fifteen litres of thirty percent alcohol; find the new strength. Question five: ten litres of forty percent acid is mixed with thirty litres of sixty percent acid; find the strength.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.4854
+}

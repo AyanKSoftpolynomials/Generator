@@ -1,0 +1,17 @@
+{
+  "input_hash": "f58cac2a63cb610a7e343abb",
+  "text": "Here is the rule box. Grandparents sit two rows up. Parents, uncles and aunts, one row up. You are on row zero. Children, nephews and nieces, one row down.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.2797
+}

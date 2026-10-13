@@ -1,0 +1,17 @@
+{
+  "input_hash": "4da2ed2836d303a10d1e0f3b",
+  "text": "School is to fish, as flock is to what? Fish fixes the meaning of school: a group of animals, not a place for students. A school is a group of fish. So a flock is a group of birds, or sheep.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.635
+}

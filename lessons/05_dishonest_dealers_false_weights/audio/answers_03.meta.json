@@ -1,0 +1,17 @@
+{
+  "input_hash": "4fea4cfaf92cd767e7065604",
+  "text": "Three: one point one times one thousand over nine hundred is one point two two two two, a twenty-two point two two percent gain. He receives one hundred and ten rupees for goods worth ninety.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.4546
+}

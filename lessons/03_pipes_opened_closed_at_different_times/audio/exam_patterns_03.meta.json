@@ -1,0 +1,17 @@
+{
+  "input_hash": "20449071f87826f527840dea",
+  "text": "Opened later: A, twenty minutes, runs alone for five minutes, then B, thirty minutes, joins. Sixty units: fifteen done, then forty-five divided by five: fourteen minutes in all.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.5929
+}

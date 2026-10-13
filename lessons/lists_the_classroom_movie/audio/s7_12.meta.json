@@ -1,0 +1,17 @@
+{
+  "input_hash": "aa0ef29b5f373ce4350952eb",
+  "text": "No. Each node needs extra memory for its link. And we give up direct access. Reaching a node means walking from the head.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.5236
+}

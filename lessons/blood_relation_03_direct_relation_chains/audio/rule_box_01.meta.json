@@ -1,0 +1,17 @@
+{
+  "input_hash": "36ab4a5c00c1d217369a8fb2",
+  "text": "Here is the rule box. Draw one link at a time, and join statements at the common person.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.1917
+}

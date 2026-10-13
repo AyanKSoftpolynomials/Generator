@@ -1,0 +1,17 @@
+{
+  "input_hash": "d38a31e1034d84d5d52bb92c",
+  "text": "Notice that the second question can't be solved by counting. It needs the relationship between the two positions, and that relationship is exactly what this lesson is about.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7755
+}

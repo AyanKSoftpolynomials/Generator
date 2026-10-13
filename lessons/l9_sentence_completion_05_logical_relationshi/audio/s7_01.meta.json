@@ -1,0 +1,17 @@
+{
+  "input_hash": "675170d7f4a215bb5d1f823d",
+  "text": "Vocabulary questions need recall. Relationship questions need reasoning, and reasoning is something you can apply under pressure even when your memory fails. If you don't know a word, the relationship can still tell you its direction. That alone often removes two options.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.4804
+}

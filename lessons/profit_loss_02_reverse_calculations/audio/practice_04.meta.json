@@ -1,0 +1,17 @@
+{
+  "input_hash": "2b608945179e5fcf6fff818b",
+  "text": "Level three, question seven: an article is sold at a ten percent loss; had it been sold for ninety rupees more, there would have been a five percent gain; find the cost price. Question eight: A sells to B at a ten percent profit, and B sells to C at a twenty percent loss; C pays thirteen hundred and twenty rupees; find A's cost price. Question nine: the profit percent when an article is sold for one thousand and forty rupees equals the loss percent when it is sold for eight hundred and eighty; find the cost price and that percentage.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 35.2776
+}

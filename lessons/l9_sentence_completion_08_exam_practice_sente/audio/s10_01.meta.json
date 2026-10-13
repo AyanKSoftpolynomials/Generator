@@ -1,0 +1,17 @@
+{
+  "input_hash": "efce801cf5027dad2a9ea280",
+  "text": "Words, then grammar, then whole sentences and their order. The last module puts it all together: full passages, read under time pressure, with questions about what they say and what they imply.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.9026
+}

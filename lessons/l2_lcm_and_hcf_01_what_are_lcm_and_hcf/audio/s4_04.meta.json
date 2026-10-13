@@ -1,0 +1,18 @@
+{
+  "input_hash": "4b498013cc6ce7ae3a2b58af",
+  "text": "The word in the question isn't the clue. The structure is. Splitting into equal parts means H C F. Lining up repeating events means L C M.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.3483
+}

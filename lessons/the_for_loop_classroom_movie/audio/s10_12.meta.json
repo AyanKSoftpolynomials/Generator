@@ -1,0 +1,17 @@
+{
+  "input_hash": "e07aab02e54a6a9a2cf11d63",
+  "text": "That is the reason programmers like it. It is also the reason examiners like it. When the whole plan sits on one line, changing a single character changes the entire answer. Less than becomes less than or equal to. A semicolon appears where it should not. You now know where to look.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.9001
+}

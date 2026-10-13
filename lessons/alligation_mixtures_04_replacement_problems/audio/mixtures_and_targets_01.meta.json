@@ -1,0 +1,19 @@
+{
+  "input_hash": "958e5d3a89bc8c7635804719",
+  "text": "Starting from a mixture, apply the fraction to each ingredient. Forty litres with milk to water three to one, and eight litres taken out: the milk is thirty times four fifths, twenty-four, and the water is ten times four fifths, eight.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.223
+}

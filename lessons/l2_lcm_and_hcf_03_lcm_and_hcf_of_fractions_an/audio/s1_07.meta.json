@@ -1,0 +1,17 @@
+{
+  "input_hash": "746d4d9e4d2b8427fb8ea60d",
+  "text": "20 over 3 divided by 2 over 3 is 10. Divided by 4 over 9 is 20 over 3 times 9 over 4, which is 15. Divided by 5 over 6 is 20 over 3 times 6 over 5, which is 8. All whole numbers.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.2379
+}

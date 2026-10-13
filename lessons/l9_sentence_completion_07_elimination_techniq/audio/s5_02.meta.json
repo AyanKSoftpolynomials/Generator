@@ -1,0 +1,17 @@
+{
+  "input_hash": "eeb4c86032f46e4ea55f5b4f",
+  "text": "The aspect trap is the most common way strong students lose marks. The wrong option is about the right topic, but it describes a different property.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.8217
+}

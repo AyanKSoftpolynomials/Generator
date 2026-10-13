@@ -1,0 +1,19 @@
+{
+  "input_hash": "b0ff0421af7d7fa9c48fed7e",
+  "text": "Level two, question three: sugar at thirty and fifty rupees is mixed to make forty-two; find cheaper to dearer. Question four: rice at forty and sixty rupees is mixed to make forty-eight; find cheaper to dearer. Question five: in what ratio must water be mixed with milk worth forty-eight rupees a litre to make a mixture worth forty?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.8438
+}

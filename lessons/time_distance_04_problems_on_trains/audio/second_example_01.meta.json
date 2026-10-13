@@ -1,0 +1,17 @@
+{
+  "input_hash": "6a0c4634dd2ad846c85824c5",
+  "text": "Trains of one hundred and fifty metres and two hundred metres run on parallel tracks at fifty-four and seventy-two kilometres per hour. How long do they take to cross each other in opposite directions, and in the same direction?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.9778
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "09ed0fe907a72e440b4752eb",
+  "text": "Three exam patterns. Five to ten blanks in one passage: S-G-C-V-R. A blank that's unclear: skip it, solve the others, and return. And the final check: re-read the whole passage.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.9817
+}

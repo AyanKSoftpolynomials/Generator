@@ -1,0 +1,18 @@
+{
+  "input_hash": "8b12c40797cb937ce8eff9b6",
+  "text": "Filter from cheapest to most expensive: grammar, direction, degree, aspect, collocation. Do the easier blank first. Be careful with extreme words unless the sentence signals intensity. Each elimination makes a guess worth more.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.5932
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "8d4631b59fe08363a5f8e2de",
+  "text": "Take the tank as six units: A adds two in its minute, B removes one in its minute, so each two-minute cycle gains one.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.5357
+}

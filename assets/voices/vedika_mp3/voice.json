@@ -1,0 +1,16 @@
+{
+  "id": "vedika_mp3",
+  "name": "Vedika mp3",
+  "language": "en",
+  "samples": [
+    "sample_01.wav"
+  ],
+  "description": "",
+  "speaker": "Vedika",
+  "gender": "female",
+  "category": "narrator",
+  "source": "upload",
+  "original_file": "Vedhika mp3.mp3",
+  "consent_confirmed": true,
+  "created": "2026-09-25 12:09:12"
+}

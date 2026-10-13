@@ -1,0 +1,17 @@
+{
+  "input_hash": "ae82a1abcac034994643e6f7",
+  "text": "I eliminated obedient and obscure. They start with ob, and that felt like a trap. Then I was stuck between stubborn and durable.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.7268
+}

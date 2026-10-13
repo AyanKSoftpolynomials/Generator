@@ -1,0 +1,17 @@
+{
+  "input_hash": "67f2d65f5f1cdf773198f9e0",
+  "text": "Jumbled word: P, T, R, E, U, C, O, M make COMPUTER, whose fourth letter is P.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.3838
+}

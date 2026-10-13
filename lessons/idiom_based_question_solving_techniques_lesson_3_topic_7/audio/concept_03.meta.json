@@ -1,0 +1,17 @@
+{
+  "input_hash": "3293df2acb13292b77cf933a",
+  "text": "As always, predict before reading the options. For an idiom you don't know, use the picture: what would this image most naturally stand for? Then apply L, O, W, T. You'll often eliminate two or three options, even without knowing the idiom.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.6445
+}

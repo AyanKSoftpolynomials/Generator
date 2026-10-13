@@ -1,0 +1,17 @@
+{
+  "input_hash": "c6794cea5cdd94578efe0967",
+  "text": "840 has a digit sum of 12, so it leaves remainder 3 when divided by 9. 840 k plus 3 leaves 3 k plus 3. That has to be a multiple of 9, so 3 k plus 3 is 9, and k is 2. The number is 1,683.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.3475
+}

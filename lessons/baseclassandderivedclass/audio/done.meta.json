@@ -1,0 +1,18 @@
+{
+  "input_hash": "0c44ff3ed6988095255be637",
+  "text": "Well done, my dear students. Now let us see exactly how this relationship is written in code. I will see you in the next video, for Syntax of Derivation.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.1337
+}

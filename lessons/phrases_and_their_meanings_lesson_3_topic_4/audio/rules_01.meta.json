@@ -1,0 +1,17 @@
+{
+  "input_hash": "168acb734da52740a0896b77",
+  "text": "Here are the high-frequency phrasal verbs. Call off: cancel. Put off: postpone. Carry out: execute. Carry on: continue. Turn down: reject. Turn up: arrive. Give up: quit trying. Give in: surrender.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.873
+}

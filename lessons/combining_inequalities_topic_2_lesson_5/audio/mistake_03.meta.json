@@ -1,0 +1,17 @@
+{
+  "input_hash": "a8d00f8553572982e4efb237",
+  "text": "The third is forgetting to flip the sign when a statement is reversed to fit the chain. R is greater than Q becomes Q is less than R, not Q is greater than R.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.4236
+}

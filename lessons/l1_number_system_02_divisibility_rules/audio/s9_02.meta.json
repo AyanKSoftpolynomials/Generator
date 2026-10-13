@@ -1,0 +1,17 @@
+{
+  "input_hash": "87c711b700795183d0e122fd",
+  "text": "3 and 4 are co-prime, so test both. Option A, 3,456: digit sum 18, and the last two digits, 56, pass. Option B, 2,574: 74 isn't divisible by 4. Option C, 7,342: digit sum 16, not divisible by 3. Option D, 5,618: digit sum 20. The answer is option A.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 29.7561
+}

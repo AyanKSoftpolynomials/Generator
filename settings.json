@@ -1,0 +1,50 @@
+{
+  "voice": {
+    "default": "teacher_a",
+    "aliases": {
+      "teacher": "teacher_a",
+      "student": "student_a",
+      "default": "teacher_a"
+    }
+  },
+  "audio": {
+    "enabled": true,
+    "engine": "xtts_v2",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true,
+    "pause_after": 0.25,
+    "workers": 1,
+    "sarvam": {
+      "voices": {
+        "aditya": "aditya",
+        "kavya": "kavya",
+        "vijay": "vijay"
+      }
+    }
+  },
+  "alignment": {
+    "enabled": true
+  },
+  "subtitles": {
+    "enabled": true,
+    "mode": "sentence",
+    "formats": [
+      "srt",
+      "vtt"
+    ],
+    "max_chars": 84,
+    "embed_in_mp4": true
+  },
+  "video": {
+    "preview_quality": "low",
+    "final_quality": "high"
+  },
+  "compute": {
+    "device": "auto"
+  },
+  "web": {
+    "max_concurrent_jobs": 5,
+    "speech_workers": 1
+  }
+}

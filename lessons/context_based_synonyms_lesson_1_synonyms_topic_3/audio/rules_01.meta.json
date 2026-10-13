@@ -1,0 +1,17 @@
+{
+  "input_hash": "73c7c73a283615b2a8ae2daf",
+  "text": "Four rules. First, read the full sentence before the options. Second, cover the word and predict what should go in the gap. Third, the answer must keep the sentence's meaning and its grammar when swapped in. And fourth, expect the word's most common meaning to appear as a trap.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.2059
+}

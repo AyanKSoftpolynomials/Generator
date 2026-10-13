@@ -1,0 +1,17 @@
+{
+  "input_hash": "c19017ad3ad5146d3ea0534c",
+  "text": "Easier blank first: so blank that developers could set up in minutes needs something positive, clear. That eliminates options B and C. Second blank: the new guide takes minutes and the old one took a day, which is a contrast, so whereas. The answer is option A.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.4208
+}

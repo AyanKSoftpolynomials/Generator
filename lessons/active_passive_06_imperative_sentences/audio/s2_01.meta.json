@@ -1,0 +1,17 @@
+{
+  "input_hash": "a87d8469d812b71a55204d74",
+  "text": "Imperatives include commands, requests, advice and prohibitions. In the passive, each kind has a standard pattern. In the exam, the right answer depends on matching the kind of imperative to its pattern.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.7295
+}

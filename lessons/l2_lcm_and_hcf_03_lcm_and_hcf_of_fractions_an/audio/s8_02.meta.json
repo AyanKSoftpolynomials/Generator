@@ -1,0 +1,17 @@
+{
+  "input_hash": "7409fb481744954c144cc4ab",
+  "text": "All fractions are in lowest terms. L C M is L C M of 2, 4 and 5, over H C F of 3, 9 and 6, which is 20 over 3. The answer is option B. Option A uses L C M over L C M. Option C is L C M over L C M, unsimplified. Option D is a common multiple, but not the least.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.5578
+}

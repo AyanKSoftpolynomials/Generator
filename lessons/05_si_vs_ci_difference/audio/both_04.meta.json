@@ -1,0 +1,17 @@
+{
+  "input_hash": "ba4d97f2bbce04bba1ec1823",
+  "text": "Then P is one hundred times two hundred and forty, divided by twenty: twelve hundred rupees. Check: twelve hundred times zero point two squared is forty-eight.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.4058
+}

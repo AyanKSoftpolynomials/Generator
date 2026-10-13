@@ -1,0 +1,17 @@
+{
+  "input_hash": "b62f65e626be49bc05d4cd3b",
+  "text": "You do this all the time: a typo in a chat, a word cut off in a log, a noisy call. Your brain fills the gap from the context. The exam checks whether you can do it precisely, choosing the exact word rather than something roughly right.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.0141
+}

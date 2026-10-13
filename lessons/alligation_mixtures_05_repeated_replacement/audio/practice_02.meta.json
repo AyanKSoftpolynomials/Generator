@@ -1,0 +1,19 @@
+{
+  "input_hash": "cf83ee366f2f700d59e1bb93",
+  "text": "Level two, question three: ten litres of a fifty litre vessel of milk is replaced with water, twice; how much milk is left? Question four: ten litres of a one hundred litre vessel of acid is replaced with water, three times; how much acid is left? Question five: sixteen litres of a sixty-four litre vessel of milk is replaced with water, twice; find the ratio of milk to water.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 23.4751
+}

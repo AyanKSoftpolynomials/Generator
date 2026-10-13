@@ -1,0 +1,17 @@
+{
+  "input_hash": "9e00eb9f89a21645132dd132",
+  "text": "In numbers: if the new position goes above twenty-six, subtract twenty-six. If it drops below one, add twenty-six.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.031
+}

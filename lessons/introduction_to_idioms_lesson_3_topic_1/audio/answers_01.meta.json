@@ -1,0 +1,17 @@
+{
+  "input_hash": "2ecb673f3892e6c78aaa8537",
+  "text": "One: reveal a secret. Waste food and make a mess are literal. Two: work late into the night. Waste fuel is literal, and sleep late is the opposite of the effort meant. Three: be very expensive. Cause injury is literal.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.3876
+}

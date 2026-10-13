@@ -1,0 +1,18 @@
+{
+  "input_hash": "99add418d0fdf9b010987522",
+  "text": "Pure recurring: the block over that many 9s. Mixed recurring: all digits minus the non-repeating digits, over 9s then 0s. The subtraction method always works. Convert to fractions before doing arithmetic. 0.999, recurring, equals 1.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.2744
+}

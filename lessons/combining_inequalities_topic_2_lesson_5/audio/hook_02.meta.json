@@ -1,0 +1,17 @@
+{
+  "input_hash": "c9b2e28c190e9c781a1abe85",
+  "text": "It's tempting to say something definite. But think about it: A and C are both bigger than B. That's all we know. A could be larger than C, smaller than C, or equal to it.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.5731
+}

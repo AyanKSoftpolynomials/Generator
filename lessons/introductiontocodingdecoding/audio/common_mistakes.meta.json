@@ -1,0 +1,17 @@
+{
+  "input_hash": "2a684ddaa71cbc5b48a489e5",
+  "text": "Three mistakes account for most wrong answers in this topic. Mistake 1: Deciding the rule from a single letter. If C becomes D, the rule might be plus 1. But it might also be a pattern like plus 1, plus 2, plus 3 across positions. Always confirm with every letter. Mistake 2: Ignoring the circular alphabet. Y plus 2 is not position 27. It wraps around to A. Subtract 26 whenever you go past Z. Mistake 3: Mixing up the direction when decoding. If coding means plus 2, then decoding means minus 2. Under time pressure, candidates often apply the coding rule again instead of reversing it.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 65.0544
+}

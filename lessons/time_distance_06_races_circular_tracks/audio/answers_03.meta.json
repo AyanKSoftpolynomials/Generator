@@ -1,0 +1,17 @@
+{
+  "input_hash": "931e1789f9de434d2e6fee09",
+  "text": "Three: B covers the last twenty metres in five seconds, so B's speed is four metres per second and B's time is one hundred and twenty-five seconds. A's time is five seconds less: one hundred and twenty seconds.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.9485
+}

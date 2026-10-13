@@ -1,0 +1,17 @@
+{
+  "input_hash": "78c6f1a5f0fe7c345e27115c",
+  "text": "i is one. One is less than or equal to five, so sum becomes one. Then i becomes two. Sum is three. i is three, sum is six. i is four, sum is ten. i is five, and five is still less than or equal to five, so sum becomes fifteen.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.7355
+}

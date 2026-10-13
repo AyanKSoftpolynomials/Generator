@@ -1,0 +1,17 @@
+{
+  "input_hash": "d3810aed62a2dfe8747ed0f6",
+  "text": "[VISUAL: Two panels side by side \u2014 \"A written email\" and \"A spoken conversation\"] This precision matters far beyond any exam.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.4328
+}

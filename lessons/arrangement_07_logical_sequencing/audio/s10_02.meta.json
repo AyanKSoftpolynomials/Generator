@@ -1,0 +1,18 @@
+{
+  "input_hash": "414162f41c6822e369440e37",
+  "text": "When there are no signal words, find the template: process, chronology, cause and effect, problem and solution, or claim and support. Use dependency thinking. Every sentence comes after what it needs. Nouns like patched version can carry the order on their own.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.9906
+}

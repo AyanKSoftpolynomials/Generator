@@ -1,0 +1,18 @@
+{
+  "input_hash": "c3ccde5285649221fa84a7b2",
+  "text": "For two numbers, H C F times L C M equals their product, but not for three. Pairs with H C F H are H times a coprime pair. The L C M of coprimes is their product. The H C F must divide the L C M, or the question has no valid pair.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.6421
+}

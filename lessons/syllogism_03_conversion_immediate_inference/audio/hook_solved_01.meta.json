@@ -1,0 +1,17 @@
+{
+  "input_hash": "0a178bbbc5d7c4a9cad91997",
+  "text": "The statement: all integers are numbers. Conclusion one: some numbers are integers. Conclusion two: all numbers are integers.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.9825
+}

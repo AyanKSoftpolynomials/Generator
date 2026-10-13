@@ -1,0 +1,17 @@
+{
+  "input_hash": "354ed2311e2db85bafb1d64b",
+  "text": "So the method is always the same. First, identify which end you're counting from. Then, if needed, convert using twenty-seven. Finally, find the letter using the nearest anchor.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.6016
+}

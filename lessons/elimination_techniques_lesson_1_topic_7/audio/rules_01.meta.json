@@ -1,0 +1,17 @@
+{
+  "input_hash": "6f81242a9916acc338ba377a",
+  "text": "The rules. Grammar, then passage logic, then precision. For dependent blanks, solve the more certain one first. And if a blank is unclear after the three filters: skip, and return.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.8066
+}

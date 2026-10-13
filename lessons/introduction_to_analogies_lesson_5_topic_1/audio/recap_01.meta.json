@@ -1,0 +1,17 @@
+{
+  "input_hash": "d98d6cf0eb6c7eec02d10349",
+  "text": "To recap. An analogy is two pairs sharing the same relationship. The tool is a bridge sentence from the first pair. And the trap is a word that's related, but by a different link.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.1002
+}

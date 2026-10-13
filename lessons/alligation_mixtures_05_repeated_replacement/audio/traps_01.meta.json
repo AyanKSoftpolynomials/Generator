@@ -1,0 +1,19 @@
+{
+  "input_hash": "c66812794d3a5bf1482ba836",
+  "text": "Trap one: subtracting instead of compounding. Ten litres of a fifty litre vessel of milk is replaced with water, twice: how much milk is left?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.7822
+}

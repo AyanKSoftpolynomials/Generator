@@ -1,0 +1,1 @@
+"""Attention-grabbing lesson openers."""

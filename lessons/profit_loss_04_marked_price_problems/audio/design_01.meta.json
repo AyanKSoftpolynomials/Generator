@@ -1,0 +1,17 @@
+{
+  "input_hash": "ad6523062a54a0b111ba8d32",
+  "text": "Design backwards. For a target profit P after a discount D, marked price times one minus D over a hundred equals cost price times one plus P over a hundred.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7508
+}

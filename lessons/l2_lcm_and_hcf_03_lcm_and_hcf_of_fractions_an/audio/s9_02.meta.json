@@ -1,0 +1,18 @@
+{
+  "input_hash": "14d42043c8d1f5b605a0649a",
+  "text": "For fractions, reduce to lowest terms first. L C M is L C M of the tops over H C F of the bottoms. H C F is H C F of the tops over L C M of the bottoms. For decimals, equalise the decimal places, scale to integers, compute, then scale back.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.8414
+}

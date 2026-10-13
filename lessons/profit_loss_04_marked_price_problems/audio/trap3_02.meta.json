@@ -1,0 +1,17 @@
+{
+  "input_hash": "8e5fe97dba7929cd756f3119",
+  "text": "The wrong instinct is no profit, no loss. The correct answer is a four percent loss, because one point two times zero point eight is zero point nine six.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.2283
+}

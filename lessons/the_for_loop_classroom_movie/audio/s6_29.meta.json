@@ -1,0 +1,17 @@
+{
+  "input_hash": "8687aebde5038df6c610da36",
+  "text": "i becomes one. Then the check. Is one less than or equal to zero? No. So it leaves immediately. The body never runs. Zero rows.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.5072
+}

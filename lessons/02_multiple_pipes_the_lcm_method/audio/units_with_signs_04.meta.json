@@ -1,0 +1,17 @@
+{
+  "input_hash": "1518191df94ca419c526ba22",
+  "text": "Read the sign. A positive result is an inlet; a negative result is an outlet. C, at minus six, empties sixty units in ten hours.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7264
+}

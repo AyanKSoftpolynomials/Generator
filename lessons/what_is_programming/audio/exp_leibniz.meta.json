@@ -1,0 +1,18 @@
+{
+  "input_hash": "a4f93f552fcce919f9ace0b7",
+  "text": "In sixteen seventy-three, Gottfried Leibniz built the Stepped Reckoner. It could add, subtract, multiply and divide: all four basic operations.",
+  "voice": "teacher_b",
+  "voice_reference_hash": "43b00d98b72c9000",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.6168
+}

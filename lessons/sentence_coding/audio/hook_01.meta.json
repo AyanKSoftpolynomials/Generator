@@ -1,0 +1,17 @@
+{
+  "input_hash": "6b8d34a2b0dde9936b71e3fe",
+  "text": "In a certain code language, pit na sa means you are good, na ho pa means they are bad, and ka sa ho means good and bad. What's the code for they?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.1303
+}

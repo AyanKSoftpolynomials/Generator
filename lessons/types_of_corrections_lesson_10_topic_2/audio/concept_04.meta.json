@@ -1,0 +1,17 @@
+{
+  "input_hash": "6595adc39d6305e4849206a3",
+  "text": "Word-choice corrections replace a wrong word with the right one: affect and effect, fewer and less, good and well, and idioms in their fixed form.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.6221
+}

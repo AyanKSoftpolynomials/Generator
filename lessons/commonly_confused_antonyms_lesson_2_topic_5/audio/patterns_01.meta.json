@@ -1,0 +1,17 @@
+{
+  "input_hash": "10c1d4195abf448c9489705f",
+  "text": "Three exam patterns. A prefixed word: decode first, and don't just strip the prefix. Two negative-looking options: choose the one that mirrors the exact core. And a look-alike in the options: default to trap.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.8183
+}

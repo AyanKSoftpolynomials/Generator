@@ -1,0 +1,17 @@
+{
+  "input_hash": "7849a2fef1345900c86a1e27",
+  "text": "Five: the cost is sixteen hundred and the target is two thousand. Twelve hundred and fifty is collected, so seven hundred and fifty is needed from thirty: twenty-five rupees each.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.2537
+}

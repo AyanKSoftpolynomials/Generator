@@ -1,0 +1,17 @@
+{
+  "input_hash": "798e362e6aee8febf14a8efb",
+  "text": "It is not. Some compilers will warn you, because it is so often a mistake. But it is valid C, and it runs.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.47
+}

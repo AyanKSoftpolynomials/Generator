@@ -1,0 +1,17 @@
+{
+  "input_hash": "0f46a486e11caea704b43864",
+  "text": "Level two, question four: arrange DATA, DATE, DART and DASH in dictionary order; which is third? Question five: how many pairs of letters in STAMP have as many letters between them in the word as in the alphabet? Question six: if the letters of PLANET are arranged alphabetically, how many letters stay in the same position?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.8787
+}

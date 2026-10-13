@@ -1,0 +1,17 @@
+{
+  "input_hash": "017bcb96b15b1882fcc86c81",
+  "text": "In the exam, even simple one-line questions reward a quick sketch. Draw generations as rows, mark genders only when known, and collapse the chain step by step.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.4549
+}

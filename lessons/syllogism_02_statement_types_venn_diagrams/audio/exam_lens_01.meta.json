@@ -1,0 +1,17 @@
+{
+  "input_hash": "1f89d8fe7fb50195421ec096",
+  "text": "Recognise and move. The recognition cue: statements with all, no, some, or some not, followed by conclusions.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.1315
+}

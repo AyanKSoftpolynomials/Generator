@@ -1,0 +1,17 @@
+{
+  "input_hash": "e7c90fe229afbdb0f7561d86",
+  "text": "Right. Co-prime describes the pair, not the numbers. 8 is 2 cubed and 15 is 3 times 5. They share no prime factor, so their HCF is 1.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.4412
+}

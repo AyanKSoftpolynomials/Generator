@@ -1,0 +1,19 @@
+{
+  "input_hash": "3771af7c0d391d5acc16be4f",
+  "text": "Seven: the milk fractions are two thirds and four fifths, making three quarters. One twentieth to one twelfth: three to five.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.3663
+}

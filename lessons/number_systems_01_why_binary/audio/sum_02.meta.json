@@ -1,0 +1,17 @@
+{
+  "input_hash": "df981fe09fd37d07c39e9cec",
+  "text": "Computers use binary because two states are easy and reliable to build. A number system has a base and a set of digits from zero to base minus one. In a positional system the value of a digit depends on its position, and each position has a weight equal to the base raised to its position number.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 23.118
+}

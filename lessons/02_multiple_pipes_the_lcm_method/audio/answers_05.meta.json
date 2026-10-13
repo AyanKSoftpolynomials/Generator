@@ -1,0 +1,17 @@
+{
+  "input_hash": "01e6443f659c38126ff262c6",
+  "text": "Five: the net flow is twelve plus eighteen minus ten, twenty litres a minute, and nine hundred divided by twenty is forty-five minutes.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.347
+}

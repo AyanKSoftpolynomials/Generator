@@ -1,0 +1,17 @@
+{
+  "input_hash": "58750aa1e9a9b4af4456188f",
+  "text": "Put more precisely, the opposite of a letter is the letter at the same position from the other end of the alphabet. A is first from the left, and Z is first from the right, so A and Z are opposites. B is second from the left, and Y is second from the right, so B and Y are opposites.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.8785
+}

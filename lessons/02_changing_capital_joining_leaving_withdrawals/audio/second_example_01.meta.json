@@ -1,0 +1,17 @@
+{
+  "input_hash": "bf8d26fe89d2dd89cfd782e9",
+  "text": "A, B and C start a business with capitals in the ratio a half, a third and a quarter. After two months, A withdraws half of his capital. The year's profit is one lakh twenty-six thousand rupees. Find each share.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.311
+}

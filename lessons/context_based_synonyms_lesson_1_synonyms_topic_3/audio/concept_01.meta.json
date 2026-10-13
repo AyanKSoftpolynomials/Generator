@@ -1,0 +1,17 @@
+{
+  "input_hash": "4391d20919ca9422b83340ef",
+  "text": "Many common words are polysemous: they have several related meanings. Address can mean a location, a speech, or to deal with a problem. Bright can mean full of light, or intelligent. Sound can mean a noise, healthy, as in a sound mind, or reliable, as in sound advice.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.1952
+}

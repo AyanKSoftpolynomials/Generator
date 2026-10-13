@@ -1,0 +1,19 @@
+{
+  "input_hash": "db6b33b001282723c9dee7ce",
+  "text": "Level three, question six: how many kilograms of tea at ninety rupees must be mixed with twelve kilograms at sixty to make a mixture worth seventy? Question seven: twenty litres of milk and water in the ratio three to one is mixed with thirty litres in the ratio four to one; find the percentage of milk. Question eight: twenty-six kilograms of rice at twenty rupees is mixed with thirty kilograms at thirty-six and sold at thirty rupees a kilogram; find the profit percent.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 26.2054
+}

@@ -1,0 +1,19 @@
+{
+  "input_hash": "1b7369b03e25c5ce775b271c",
+  "text": "Adding a pure ingredient: it is one hundred percent. Pure acid added to twenty litres of twenty percent acid to make thirty-six percent: the solution to the pure acid is sixty-four to sixteen, four to one, so five litres.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.6061
+}

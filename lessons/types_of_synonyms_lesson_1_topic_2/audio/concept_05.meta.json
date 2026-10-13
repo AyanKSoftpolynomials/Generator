@@ -1,0 +1,17 @@
+{
+  "input_hash": "cbef18e8a076dda5b7325816",
+  "text": "Collocation, or usage: words that go together by habit. Heavy rain, not strong rain. Make a decision, not do a decision. Two words can mean the same thing, but only one fits a particular partner word.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.9339
+}

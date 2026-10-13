@@ -1,0 +1,17 @@
+{
+  "input_hash": "7d8cd9628c586afba878210a",
+  "text": "Here's Euclid's idea. Any number that divides both 1071 and 462 also divides the remainder, 147. So the H C F of 1071 and 462 is the same as the H C F of 462 and 147.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.5112
+}

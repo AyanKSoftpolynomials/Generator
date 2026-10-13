@@ -1,0 +1,17 @@
+{
+  "input_hash": "dd8b94558224073fc3aa1bb4",
+  "text": "Three: one, four, nine, sixteen, twenty-five, thirty-six and forty-nine are seven numbers: seven fiftieths.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.383
+}

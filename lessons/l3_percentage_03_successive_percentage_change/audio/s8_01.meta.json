@@ -1,0 +1,17 @@
+{
+  "input_hash": "92ce0421bf78336e5064a1ca",
+  "text": "Monthly growth compounds. Five percent a month for a year isn't 60 percent. It's 1.05 to the power 12, about 79.6 percent. Investors, cloud cost forecasts and capacity planning all depend on this. Adding percentages instead of multiplying them is one of the most expensive mistakes in business arithmetic.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 25.3741
+}

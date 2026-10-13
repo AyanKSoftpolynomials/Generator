@@ -1,0 +1,17 @@
+{
+  "input_hash": "29fb0491545669f8cee4f489",
+  "text": "The process. First, recall the word, or decode the roots of the options. Second, check every condition of the definition. Third, strike look-alikes and same-root traps, like anonymous and unanimous. And fourth, confirm in a sentence.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.0915
+}

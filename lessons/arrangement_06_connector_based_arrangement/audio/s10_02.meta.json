@@ -1,0 +1,18 @@
+{
+  "input_hash": "293d8839ad85e43a2f49acda",
+  "text": "Every connector expects something before it: a cause, an opposite, a claim or a step. Circle the connectors, find what they need, and test each pair in both directions.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.1539
+}

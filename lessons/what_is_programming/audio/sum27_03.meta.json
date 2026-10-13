@@ -1,0 +1,17 @@
+{
+  "input_hash": "4fb8bc0fe72645dfe3fce7de",
+  "text": "Counting from the right, we pass all the letters after it and then land on the letter itself. So its reverse position is twenty-six minus n, plus one. That's twenty-seven minus n.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.1679
+}

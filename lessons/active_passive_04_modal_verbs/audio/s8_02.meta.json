@@ -1,0 +1,17 @@
+{
+  "input_hash": "0a4d1483266f13b2be17c16e",
+  "text": "Policies, standards and requirements documents are written this way, because the action matters more than who does it. If you understand modal passives, you can read compliance rules precisely: must is mandatory, should is recommended, and may is permitted.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.4131
+}

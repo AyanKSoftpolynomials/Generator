@@ -1,0 +1,17 @@
+{
+  "input_hash": "16682fdb8185806f8082b6b6",
+  "text": "You could, but there is a faster route. Binary is the common language, so go through it.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 4.9962
+}

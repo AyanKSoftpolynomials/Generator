@@ -1,0 +1,17 @@
+{
+  "input_hash": "7a9c73fd596d8f02b23c21bb",
+  "text": "Line A: after the rejection email, Neha was on cloud nine. Line B: Arjun broke the ice with a joke at the start of the meeting. Line C: the migration was a piece of cake; it took six months of struggle. Line D: we saw eye to eye, so we argued all afternoon.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.107
+}

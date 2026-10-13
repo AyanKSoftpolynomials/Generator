@@ -1,0 +1,17 @@
+{
+  "input_hash": "ca2906caabe3a60d2f48764b",
+  "text": "Growth teams think in multipliers. Users up 10 percent, then down 5 percent, means multiplying by 1.10 and then 0.95, not adding plus 10 and minus 5. Multipliers make chained changes and reversals exact.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.3055
+}

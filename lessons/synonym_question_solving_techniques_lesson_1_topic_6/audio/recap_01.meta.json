@@ -1,0 +1,17 @@
+{
+  "input_hash": "68e83e57225f547e6d8cd019",
+  "text": "To recap the lesson one method: predict, then P, M, D, T, then confirm. The biggest trap is the antonym, so always ask, is this the opposite? The other traps are sound-alikes, nearby words, and the wrong part of speech. And the target time is about thirty seconds per synonym question.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.4487
+}

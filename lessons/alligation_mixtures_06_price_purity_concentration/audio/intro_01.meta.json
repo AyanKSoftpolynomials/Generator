@@ -1,0 +1,17 @@
+{
+  "input_hash": "f0b2b452f1e8149b296c4118",
+  "text": "In the last video, repeated replacement left the fraction that stays, raised to the power n.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 5.998
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "12a21c6a2b01c28d8288d2d9",
+  "text": "Now, the second half of today's work. When you make a mistake, we do not just correct it. We classify it. Where did the error come from?",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.6449
+}

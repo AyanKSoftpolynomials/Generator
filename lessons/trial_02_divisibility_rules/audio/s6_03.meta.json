@@ -1,0 +1,17 @@
+{
+  "input_hash": "fe672a8532a7fb798a3a129f",
+  "text": "Take 18. It's divisible by 2 and by 6, but 18 divided by 12 is 1.5. The factors 2 and 6 overlap, so testing both doesn't guarantee 12. Co-prime factors never overlap.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.0099
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "a0a6a06317ce479fd9be44cf",
+  "text": "Seven: cousin. His wife's son is his son too, so this is your paternal uncle's son. The word only changes nothing here.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.6199
+}

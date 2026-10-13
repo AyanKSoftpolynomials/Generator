@@ -1,0 +1,17 @@
+{
+  "input_hash": "dcc9335f1b39de194c2975ae",
+  "text": "Three exam patterns. An opening participle phrase: check who, or what, is doing the action. Lists with and, or or: match the form of every item. And paired conjunctions: use the same form on both sides, as in not only X, but also Y.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.8531
+}

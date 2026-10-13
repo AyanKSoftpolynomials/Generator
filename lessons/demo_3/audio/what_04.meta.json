@@ -1,0 +1,18 @@
+{
+  "input_hash": "ed2c99fd6d331b5895aff86e",
+  "text": "B, with 2 units, has a rate of 2 over 30, or 1 over 15 \u2014 taking 15 days alone.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.8411
+}

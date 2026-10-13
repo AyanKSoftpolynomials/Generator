@@ -1,0 +1,17 @@
+{
+  "input_hash": "8c011ceb84b6c6ee96a4419b",
+  "text": "Level two, question three: a pipe fills a tank in nine hours; because of a leak, it takes one hour longer; how long would the leak take to empty the full tank? Question four: pipes A and B fill a tank in twelve and fifteen hours; because of a leak, together they take ten hours; how long would the leak alone take to empty the full tank? Question five: a pipe fills a tank four times as fast as a leak empties it; with the leak, the tank fills in twenty hours; how long would the pipe take alone, and the leak alone?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 35.8312
+}

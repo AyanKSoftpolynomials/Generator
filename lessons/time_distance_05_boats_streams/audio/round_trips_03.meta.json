@@ -1,0 +1,17 @@
+{
+  "input_hash": "76550ced3f1954c0f03c0860",
+  "text": "For the same distance up and down in given times, the speeds are in the inverse ratio of the times. If upstream takes k times as long as downstream, D to U is k to one, so u to v is k plus one, to k minus one.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.9118
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "5ea33855ef181fd109e6c3d6",
+  "text": "The third mistake is wrap-around. A learner shifts Y by plus three, gets position twenty-eight, and stops. Twenty-eight minus twenty-six is two, so the answer is B.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.5288
+}

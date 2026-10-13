@@ -1,0 +1,17 @@
+{
+  "input_hash": "1fa7a04254e3f2eb59e618b5",
+  "text": "What happens when a shift runs past Z? The alphabet is treated as a circle. After Z comes A again.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.2808
+}

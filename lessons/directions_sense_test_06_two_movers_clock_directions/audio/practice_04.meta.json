@@ -1,0 +1,17 @@
+{
+  "input_hash": "d95aeb26982fcf1fd4502540",
+  "text": "Level three, question seven: from one point, A walks three kilometres north and four west, and B walks three south and four east; how far apart are they, and where is A with respect to B? Question eight: a clock is placed so that at twelve noon its minute hand points east; in which direction does its hour hand point at ten thirty?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.6501
+}

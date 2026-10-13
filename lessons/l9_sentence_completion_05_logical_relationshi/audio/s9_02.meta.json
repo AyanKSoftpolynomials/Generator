@@ -1,0 +1,18 @@
+{
+  "input_hash": "7ddd2637d52be3c57ce78190",
+  "text": "Find the relationship: cause, contrast, similarity, definition, example or sequence. Then decide whether the blank goes the same way or the opposite way. Prefer the direct link over a chain of inferences.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.657
+}

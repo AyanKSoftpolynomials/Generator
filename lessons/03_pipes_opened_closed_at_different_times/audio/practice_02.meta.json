@@ -1,0 +1,17 @@
+{
+  "input_hash": "b473bf4cb5d772c52cb6dbff",
+  "text": "Level two, question three: pipes A and B fill a tank in fifteen and ten minutes; both are opened together, but B is closed five minutes before the tank is full; find the total time. Question four: pipe A fills a tank in eight hours; when the tank is half full, an outlet that empties a full tank in twenty-four hours is also opened; find the total time to fill the tank. Question five: pipes A and B fill a tank in four and six minutes; they are opened alternately for one minute each, A first; find the time to fill the tank.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 34.6866
+}

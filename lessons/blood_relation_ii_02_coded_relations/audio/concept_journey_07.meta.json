@@ -1,0 +1,17 @@
+{
+  "input_hash": "ecebef0db4b9e28a9cb9a5a3",
+  "text": "Right. Only a husband or wife code fixes both partners: a husband's partner is female, and a wife's partner is male. Step five: read the relation from the first-named person. P to S, and S to P, can have different answers.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.7532
+}

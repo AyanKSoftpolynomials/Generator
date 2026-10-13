@@ -1,0 +1,17 @@
+{
+  "input_hash": "6927842e4bef7230ef3ecfc8",
+  "text": "In a line: M five metres east of N, and O five metres west of N. They are in the same row, so M is ten metres east of O.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.7523
+}

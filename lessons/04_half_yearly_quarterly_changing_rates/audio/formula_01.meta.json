@@ -1,0 +1,17 @@
+{
+  "input_hash": "3362e6cfddad3c433283b75a",
+  "text": "Here is the formula box. Half-yearly uses R over two hundred and two n periods; quarterly uses R over four hundred and four n periods.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7388
+}

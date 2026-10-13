@@ -1,0 +1,17 @@
+{
+  "input_hash": "272e01f15e725e2cb3acd6ce",
+  "text": "Bank A: eight percent quarterly is two percent per quarter, for four quarters.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.0901
+}

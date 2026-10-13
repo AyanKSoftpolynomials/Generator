@@ -1,0 +1,17 @@
+{
+  "input_hash": "298361eac76d709efc780fcd",
+  "text": "So the body of that loop is nothing. The loop runs, but it repeats nothing.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 4.9874
+}

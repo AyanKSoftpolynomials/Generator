@@ -1,0 +1,17 @@
+{
+  "input_hash": "fa131b9e2f3a743bfe2ada5f",
+  "text": "Seventy-five is odd, so every option ends in one. That check does not help. Size: sixty-four is not more than seventy-five, so we need seven bits. All options have seven bits. We must calculate.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.6912
+}

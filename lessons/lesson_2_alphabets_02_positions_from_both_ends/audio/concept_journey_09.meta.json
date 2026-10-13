@@ -1,0 +1,17 @@
+{
+  "input_hash": "b1a982dbeeca3b47bccf9022",
+  "text": "Step six: modified alphabets. If the alphabet is reversed or partly reversed, write the new order first, then count in it.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.81
+}

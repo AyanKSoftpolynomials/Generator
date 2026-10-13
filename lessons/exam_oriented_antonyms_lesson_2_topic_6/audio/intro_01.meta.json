@@ -1,0 +1,17 @@
+{
+  "input_hash": "8051dc7c0617f52f29c2a6d0",
+  "text": "In lesson one, video five, you stored words on meaning shelves. Today each shelf gets its opposite shelf, so one word gives you both a synonym set and an antonym set.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.8008
+}

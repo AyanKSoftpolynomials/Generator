@@ -1,0 +1,17 @@
+{
+  "input_hash": "b69024d85d80e8cb895e88e9",
+  "text": "After meeting, they reach in a and b hours. If A and B start at the same moment from opposite ends at constant speeds, and A takes a hours and B takes b hours to finish after meeting, then A's speed to B's speed is root b to root a, and they met root a b hours after starting.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.3093
+}

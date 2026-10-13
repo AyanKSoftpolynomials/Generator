@@ -1,0 +1,17 @@
+{
+  "input_hash": "184b13a4f94ec7c6e302404b",
+  "text": "To summarise: collapse the path into net components x and y. The shortest distance is the square root of x squared plus y squared. Recognise the triples 3-4-5, 6-8-10 and 5-12-13 to save time.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.8271
+}

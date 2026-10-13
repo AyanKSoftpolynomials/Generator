@@ -1,0 +1,17 @@
+{
+  "input_hash": "554ae42cb6ee92d79db29afa",
+  "text": "Inlet, leak and an extra tap: inlet six hours, leak twelve hours, a tap drawing ten litres a minute, and it fills in twenty hours. C over six, minus C over twelve, minus six hundred, is C over twenty: eighteen thousand litres.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.0645
+}

@@ -1,0 +1,18 @@
+{
+  "input_hash": "a4353094a75cb150b172d638",
+  "text": "Because questions often give you a ratio directly, expecting you to unlock exact individual times from it \u2014 exactly the reverse of finding a ratio from known times.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.2477
+}

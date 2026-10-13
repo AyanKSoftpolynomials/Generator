@@ -1,0 +1,19 @@
+{
+  "input_hash": "c34640c2be7d71f1807ad7a4",
+  "text": "Water is zero, and a pure ingredient is one hundred percent. Water and milk worth sixty rupees a litre, making forty-five: fifteen to forty-five, one to three.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.0934
+}

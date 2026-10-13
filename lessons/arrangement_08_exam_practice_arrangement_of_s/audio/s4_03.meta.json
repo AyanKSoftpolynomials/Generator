@@ -1,0 +1,18 @@
+{
+  "input_hash": "d02934d68b10cc7cf4035fe7",
+  "text": "Mandatory pair: T's it needs a singular thing that does the jumping. That's the index from P. So P then T. Option D puts S between P and T. Eliminated.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.1657
+}

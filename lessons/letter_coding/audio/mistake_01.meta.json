@@ -1,0 +1,17 @@
+{
+  "input_hash": "56a50c7a2a5a79970e651168",
+  "text": "The first common mistake is deciding the rule from the first letter or two. As we saw in the Alphabet Test, M to N could be opposite coding or a plus-one shift. Only the full shift row tells you which. Verify the rule on every letter before applying it.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.7454
+}

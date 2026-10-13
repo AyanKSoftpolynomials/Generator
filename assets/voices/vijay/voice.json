@@ -1,0 +1,16 @@
+{
+  "id": "vijay",
+  "name": "vijay",
+  "language": "en",
+  "samples": [
+    "sample_01.wav"
+  ],
+  "description": "Narration voice (added 2026-10-08 from C:/Scripts/Section A/vijay.mp3.mpeg)",
+  "speaker": "Vijay",
+  "gender": null,
+  "category": "narrator",
+  "source": "upload",
+  "original_file": "vijay.mp3",
+  "consent_confirmed": true,
+  "created": "2026-10-08 15:39:50"
+}

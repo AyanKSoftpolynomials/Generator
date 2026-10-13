@@ -1,0 +1,17 @@
+{
+  "input_hash": "5c2dafebb0a6741b44b4e6a7",
+  "text": "So in context questions, you don't ask what does this word mean. You ask what does this word mean here. Then you predict a replacement that keeps the sentence's meaning intact.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.2164
+}

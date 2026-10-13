@@ -1,0 +1,17 @@
+{
+  "input_hash": "bc0e1f55f8f854a112fa32a6",
+  "text": "You now have bridges, types, refinement, context and direction. Today we apply them to the formats exams use, and the pairs they reuse.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.4027
+}

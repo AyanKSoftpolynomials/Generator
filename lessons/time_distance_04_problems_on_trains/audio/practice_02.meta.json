@@ -1,0 +1,17 @@
+{
+  "input_hash": "905ac20786f72d2d1e0021a6",
+  "text": "Level two, question three: a train passes a pole in nine seconds and a one hundred and eighty metre platform in twenty-one seconds; find its length and its speed in kilometres per hour. Question four: trains of one hundred and forty and one hundred and sixty metres run in opposite directions at fifty and fifty-eight kilometres per hour; how long do they take to cross each other? Question five: a two hundred metre train at sixty-three kilometres per hour overtakes a man walking at three kilometres per hour in the same direction; how long does it take to pass him?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 35.0267
+}

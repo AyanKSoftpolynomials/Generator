@@ -1,0 +1,17 @@
+{
+  "input_hash": "34ae7bf53db812d532c13a67",
+  "text": "Divide repeatedly, larger by smaller, using each remainder as the next divisor, until you reach 0 \u2014 the last divisor used is your HCF.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.3417
+}

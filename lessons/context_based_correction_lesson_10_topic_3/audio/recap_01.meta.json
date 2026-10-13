@@ -1,0 +1,17 @@
+{
+  "input_hash": "66dddfd199ca346f70fccec3",
+  "text": "To recap. Register: neutral to formal, with no slang, abbreviations or clich\u00e9s. Clarity: one meaning, with limiting words next to what they limit. Concision: the shortest correct version wins.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.9461
+}

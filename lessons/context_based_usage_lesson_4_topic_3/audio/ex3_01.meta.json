@@ -1,0 +1,17 @@
+{
+  "input_hash": "ddda5e536ef6fc7a2812fbf4",
+  "text": "The letter was written by a person whose name was not known. Meaning: name not known. Grammar: the sentence changes shape, and the word follows was. The letter was anonymous.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.9246
+}

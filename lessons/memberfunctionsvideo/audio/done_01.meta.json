@@ -1,0 +1,17 @@
+{
+  "input_hash": "c9127c0f804120e77914cd4a",
+  "text": "Wonderful, my dear students. Now let us bring both true ideas honestly together. I will see you in the next video, for Class as a Blueprint.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.6992
+}

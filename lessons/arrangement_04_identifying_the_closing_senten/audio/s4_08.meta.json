@@ -1,0 +1,18 @@
+{
+  "input_hash": "876f7c9c4319e7befe306086",
+  "text": "Option C. For these reasons summarises several reasons that came before. And it gives the team's rule, which is the conclusion.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.1641
+}

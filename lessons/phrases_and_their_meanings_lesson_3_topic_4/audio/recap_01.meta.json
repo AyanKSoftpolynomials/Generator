@@ -1,0 +1,17 @@
+{
+  "input_hash": "eb2b8d39868e1f8fa401ecd0",
+  "text": "To recap. Verb plus particle is one unit, with one meaning. Watch the sister traps: call off, cancel, against put off, postpone; and give up against give in. And learn the fixed phrases: in lieu of, by dint of, in view of, on account of.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.3086
+}

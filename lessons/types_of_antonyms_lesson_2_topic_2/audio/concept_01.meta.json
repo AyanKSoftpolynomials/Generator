@@ -1,0 +1,17 @@
+{
+  "input_hash": "9b7dee2bde5a53b878f47b54",
+  "text": "Gradable antonyms are ends of a scale, with steps in between: hot, warm, cool, cold. Rich and poor. Ancient and modern. Not hot doesn't mean cold; it could be warm. In exams, the correct antonym is the far end of the scale, not a midpoint.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.0415
+}

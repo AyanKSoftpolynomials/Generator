@@ -1,0 +1,17 @@
+{
+  "input_hash": "a9e2db83948c4a6baca6fb8f",
+  "text": "To recap. Learn words as pairs of shelves, so one word gives you a synonym set and an antonym set. Know the root pairs: bene and mal, pro and anti, pre and post, ascend and descend. The trap is a same-shelf word: the synonym. And the habit: ten pairs a day, both shelves.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.5027
+}

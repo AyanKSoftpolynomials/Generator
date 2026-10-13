@@ -1,0 +1,17 @@
+{
+  "input_hash": "a4ae6fe4fb4baa2bfd047893",
+  "text": "The wrong instinct multiplies forty-five by twenty: nine hundred kilometres. The correct answer is forty-five times one third: fifteen kilometres.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.0865
+}

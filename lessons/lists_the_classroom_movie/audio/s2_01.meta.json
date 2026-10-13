@@ -1,0 +1,17 @@
+{
+  "input_hash": "cfbc773e90b266e2454c88e1",
+  "text": "Now, here is something important for your C-DAC C-CAT preparation. Knowing that a list is a chain of nodes is not enough. You should also be able to read a short program, follow the links from one node to the next, and predict the output.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ratan\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.4369
+}

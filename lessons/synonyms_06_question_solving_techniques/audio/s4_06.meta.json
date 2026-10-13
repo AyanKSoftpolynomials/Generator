@@ -1,0 +1,18 @@
+{
+  "input_hash": "7070bd910fd42d3de77f5406",
+  "text": "I don't know plaudits either. But despite means the next part goes against it. The product failed, so the plaudits must have been good. Praise?",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.3395
+}

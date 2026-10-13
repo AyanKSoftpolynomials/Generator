@@ -1,0 +1,17 @@
+{
+  "input_hash": "a7bf4fd6b3d54777a116c0fc",
+  "text": "The new idea: an emptying pipe has a negative rate. An outlet that empties a full tank in y minutes has rate minus one over y; it does negative work.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.2078
+}

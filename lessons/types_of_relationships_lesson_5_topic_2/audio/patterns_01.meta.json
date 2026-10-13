@@ -1,0 +1,17 @@
+{
+  "input_hash": "935a779b35edce0be659ab03",
+  "text": "Three exam patterns. A missing term: type, then bridge, then fill. Choose the pair: find the type of the given pair, and pick the pair of the same type. And instrument analogies: know the common ones: ammeter for current, voltmeter for voltage, hygrometer for humidity, anemometer for wind speed.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.2709
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "bbad7542ff983a41a1e3d5eb",
+  "text": "Option b is the total distance travelled. Option c adds the net components, 8 plus 6, instead of using Pythagoras.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.7145
+}

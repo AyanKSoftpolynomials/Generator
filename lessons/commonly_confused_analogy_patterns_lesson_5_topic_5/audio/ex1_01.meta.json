@@ -1,0 +1,17 @@
+{
+  "input_hash": "2e9874603f04a28efe44d768",
+  "text": "Wheel is to car, as what is to what? Book, page, or page, book? Bridge from A: a wheel is part of a car. The first word is the part. Book, page starts with the whole: reversed. Page, book starts with the part: that's the answer.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.9001
+}

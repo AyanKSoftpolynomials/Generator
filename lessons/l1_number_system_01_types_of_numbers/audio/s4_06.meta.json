@@ -1,0 +1,18 @@
+{
+  "input_hash": "0b16b2baa866c6df67c2bc5e",
+  "text": "A composite number has more than two divisors. 4 has 1, 2 and 4. 1 has only one divisor, so it's neither prime nor composite.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.8165
+}

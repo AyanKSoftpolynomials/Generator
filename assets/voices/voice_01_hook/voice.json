@@ -1,0 +1,16 @@
+{
+  "id": "voice_01_hook",
+  "name": "01 hook",
+  "language": "en",
+  "samples": [
+    "sample_01.wav"
+  ],
+  "description": "",
+  "speaker": "Demo Voice",
+  "gender": "male",
+  "category": "other",
+  "source": "upload",
+  "original_file": "01_hook.wav",
+  "consent_confirmed": true,
+  "created": "2026-09-25 18:51:51"
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "8c7aaa4fbabc827cc71a1987",
+  "text": "Shortcut three: the share from a difference. If the ratio is a to b and A gets d more than B, then one part is d divided by a minus b, and the total is a plus b parts.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.0282
+}

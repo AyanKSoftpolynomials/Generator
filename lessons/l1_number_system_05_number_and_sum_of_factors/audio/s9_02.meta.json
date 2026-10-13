@@ -1,0 +1,17 @@
+{
+  "input_hash": "cb9afcac8428f377128b82ab",
+  "text": "360 is 2 cubed times 3 squared times 5. Number of factors: 3 plus 1, times 2 plus 1, times 1 plus 1. That's 4 times 3 times 2, which is 24. The answer is option C.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.8102
+}

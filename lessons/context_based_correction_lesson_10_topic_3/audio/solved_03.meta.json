@@ -1,0 +1,17 @@
+{
+  "input_hash": "1b3e9bd8e98eb8d48ed58b47",
+  "text": "Confirm: version B. We would like to close this soon, so please send the files at your earliest convenience. It's formal, clear and complete.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.9061
+}

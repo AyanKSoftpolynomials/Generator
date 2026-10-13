@@ -1,0 +1,17 @@
+{
+  "input_hash": "f5c1d541df2fadd9345924d7",
+  "text": "Level one, question one: two articles are sold at the same price, one at a fifteen percent profit and one at a fifteen percent loss; find the overall result. Question two: the same, at five percent profit and five percent loss; find the overall loss percent. Question three: two articles have the same selling price, one at a twenty-five percent gain and one at a twenty-five percent loss; find the overall result.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 29.6762
+}

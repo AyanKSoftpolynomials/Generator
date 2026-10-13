@@ -1,0 +1,17 @@
+{
+  "input_hash": "4304ef96da44a7df71578455",
+  "text": "Distance from the round-trip time: u is nine, v is three, and the round trip takes six hours. D over twelve plus d over six is six: twenty-four kilometres each way.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.905
+}

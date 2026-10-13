@@ -1,0 +1,17 @@
+{
+  "input_hash": "8a5751d5a22cc43086f77285",
+  "text": "For question one: from T to W, the path is less-than-or-equal, equals, less-than. That's the same direction with a strict sign, so T is less than W. Conclusion one follows. From T to V, the path gives T is less than or equal to V, so T equals V isn't certain. Conclusion two doesn't follow.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.9999
+}

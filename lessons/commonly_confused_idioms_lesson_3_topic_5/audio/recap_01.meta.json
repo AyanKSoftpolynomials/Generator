@@ -1,0 +1,17 @@
+{
+  "input_hash": "f2c6ca20e02dd37500297d43",
+  "text": "To recap. Run the clash test: does the idiom's meaning agree with the rest of the sentence? Keep the sister idioms apart: give up and give in, the eleventh hour and the nick of time, a close shave and a clean sweep. And respect the fixed forms: make ends meet, by and large, take for granted.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.7092
+}

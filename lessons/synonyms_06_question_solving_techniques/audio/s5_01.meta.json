@@ -1,0 +1,17 @@
+{
+  "input_hash": "09d2991a2b3faaa859a6f95d",
+  "text": "Notice that elimination comes after understanding, not before. If you eliminate before you understand the word, you're only judging how the options look.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.169
+}

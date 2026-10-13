@@ -1,0 +1,17 @@
+{
+  "input_hash": "246e9b2547e1ce735fd0df39",
+  "text": "The same rule works everywhere: the value is the sum of digit times base to the power of position. In binary the weights are powers of two. With n bits there are two to the power n patterns, and the largest value is that number minus one.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.1454
+}

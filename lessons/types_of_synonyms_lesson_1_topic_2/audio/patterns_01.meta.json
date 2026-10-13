@@ -1,0 +1,17 @@
+{
+  "input_hash": "7be81081c95db6fb163e343a",
+  "text": "Three exam patterns. When two options share the core, break the tie on degree, then connotation. When the question word is formal, prefer the option of similar register. And for a word pair, check which option sits naturally with the partner word.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.0003
+}

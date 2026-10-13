@@ -1,0 +1,17 @@
+{
+  "input_hash": "524ab554d8e21b966145521d",
+  "text": "That's the agreement trap at its hardest. Subject verb agreement gets its own lesson soon, but in passive sentences it causes problems all the time.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.0662
+}

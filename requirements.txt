@@ -1,0 +1,34 @@
+# Install with:  python scripts/setup.py      (or: pip install -r requirements.txt)
+# Python 3.11-3.13 (3.12 recommended). Not 3.14: moderngl/glcontext have no wheels yet.
+
+# CPU builds of PyTorch. On a machine with an NVIDIA GPU, scripts/setup.py
+# installs the CUDA build instead.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Animation
+manim==0.21.0
+numpy==2.5.3
+scipy==1.18.1
+pillow==12.3.0
+
+# Speech: XTTS v2 voice cloning (maintained Coqui fork) + WhisperX alignment
+torch==2.8.0
+torchaudio==2.8.0
+coqui-tts==0.27.5
+whisperx==3.8.6
+soundfile==0.14.0
+sarvamai==0.1.36       # optional hosted speech: audio.engine "sarvam" (needs SARVAM_API_KEY in .env)
+
+# Web control panel API (python -m backend); the frontend itself is in frontend/ (npm)
+fastapi==0.141.1
+uvicorn==0.53.0
+python-multipart==0.0.32   # voice uploads
+
+# Optional YouTube upload: Google's official client libraries (YouTube Data API v3 + OAuth 2.0)
+google-api-python-client==2.200.0
+google-auth-oauthlib==1.4.1
+google-auth-httplib2==0.4.2
+
+# Tests
+pytest==9.1.1
+httpx==0.28.1          # FastAPI TestClient

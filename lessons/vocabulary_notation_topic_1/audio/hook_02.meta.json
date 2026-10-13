@@ -1,0 +1,17 @@
+{
+  "input_hash": "30a2e80936d04d748aebb4e9",
+  "text": "Read it once more, slowly. His mother's only son. Who is that? If the man is his mother's only son, then it's the man himself. So the question is simply asking about the man's own daughter.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.5613
+}

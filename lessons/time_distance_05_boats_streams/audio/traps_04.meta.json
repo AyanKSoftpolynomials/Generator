@@ -1,0 +1,17 @@
+{
+  "input_hash": "b20c63f1dabf5cf11be36039",
+  "text": "Trap two: the still-water speed used as the round-trip average. U is fifteen, v is three, and the boat covers the same distance down and back: what is the average speed?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.0231
+}

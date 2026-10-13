@@ -1,0 +1,17 @@
+{
+  "input_hash": "b2eb7e506899b9d50a5261c1",
+  "text": "The sanity check: adding water lowers the strength and removing water raises it, and the unchanged amount is the same at the end.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.8711
+}

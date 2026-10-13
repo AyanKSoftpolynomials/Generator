@@ -1,0 +1,19 @@
+{
+  "input_hash": "2bf1f14007376bb933d827c6",
+  "text": "Level three, question six: thirty-six litres of milk and water is in the ratio five to one, and twelve litres is replaced with milk; find the new ratio. Question seven: how much of one hundred litres of thirty percent acid must be replaced with water to make it twenty-four percent? Question eight: milk to water is seven to five in a full vessel; nine litres is drawn and replaced with water, making them equal; find the capacity of the vessel.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.2478
+}

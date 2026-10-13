@@ -1,0 +1,17 @@
+{
+  "input_hash": "fde449a42b711f821cf72632",
+  "text": "Computers store numbers in binary, with a finite number of bits. A decimal that repeats in base 10, or in base 2, gets rounded. That's why financial software stores money as integer paise, or uses decimal types, and why you compare floating-point values with a tolerance instead of with double equals.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.1068
+}

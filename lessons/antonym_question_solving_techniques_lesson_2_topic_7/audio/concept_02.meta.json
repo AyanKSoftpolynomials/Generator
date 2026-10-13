@@ -1,0 +1,17 @@
+{
+  "input_hash": "ff971e65e3931f1e30c00575",
+  "text": "S is the synonym strike: remove any option that means the same. Do this first; it's the most common trap. P is part of speech: the answer must match. T is type: gradable, complementary or relational? Reject midpoints and same-side words.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.8222
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "76e9a516ffedf81706fc7a39",
+  "text": "Try these. First: two, three, five, nine, seventeen, what's next? Second: six, eleven, twenty-one, thirty-six, blank, eighty-one. What's the missing term?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.751
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "d5754cc554b93189b42e44a0",
+  "text": "Three exam patterns. Replace the bold part: diagnose, predict, then fix, clean, faithful. The no-improvement option: only if the scan finds nothing. And when two fixes pass: choose the more concise.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.9634
+}

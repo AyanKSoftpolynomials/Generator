@@ -1,0 +1,17 @@
+{
+  "input_hash": "2e13712a1ae0f6e77d5a7f29",
+  "text": "Six: the south-east leg is three east and three south; then three north leaves three kilometres east: option b.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.2893
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "4f786a4b21b1b3e837719e32",
+  "text": "Pay special attention to the word only. Only son or only daughter often refers back to the speaker themselves, or fixes a single person, which is usually the key to the whole question.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.6147
+}

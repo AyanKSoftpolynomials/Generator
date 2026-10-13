@@ -1,0 +1,19 @@
+{
+  "input_hash": "8328840ff4db3addd2c2a1a2",
+  "text": "Sometimes a statement faces the wrong way. For example, R is greater than Q can be rewritten as Q is less than R. Flip it, reversing the sign, so that it attaches to the chain.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.9362
+}

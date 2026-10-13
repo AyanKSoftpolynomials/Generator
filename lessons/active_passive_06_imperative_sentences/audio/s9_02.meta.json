@@ -1,0 +1,17 @@
+{
+  "input_hash": "61b942df09d7ae43d1ac6904",
+  "text": "Step one: please makes it a request, so you are requested to submit the report by Friday. The answer is option B. Option A is a grammatical passive, but it turns the request into a command. Option C is a statement. Option D isn't a valid structure.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.1155
+}

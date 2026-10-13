@@ -1,0 +1,17 @@
+{
+  "input_hash": "1faace0703a5797e04f8f7aa",
+  "text": "L C M is the smallest common multiple, and H C F is the largest common factor. With prime factors, H C F takes common primes at their lowest powers, and L C M takes all primes at their highest powers. Repeating and aligning means L C M. Splitting equally means H C F. L C M is at least the largest number, and H C F is at most the smallest.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 24.3694
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "c2fe3abf34d0d1e260a8ee39",
+  "text": "Format two: choose the pair. Doctor is to patient, as what is to what? Lawyer, client, or client, lawyer? Bridge: a doctor serves a patient: the professional, then the person served. Client, lawyer is reversed. The answer is lawyer, client.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.3755
+}

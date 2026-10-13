@@ -1,0 +1,17 @@
+{
+  "input_hash": "e149d0df4c2815f54d31c64a",
+  "text": "So every letter carries two numbers: its position from the left, and its position from the right. Almost every alphabet-based reasoning question depends on moving quickly between these two numbers.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.6776
+}

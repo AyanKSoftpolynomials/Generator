@@ -1,0 +1,17 @@
+{
+  "input_hash": "29a0c3fecd2f26bd8b701ec5",
+  "text": "Most people take ten percent off one lakh thirty-two thousand, which is thirteen thousand two hundred, and say one lakh eighteen thousand eight hundred.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.7398
+}

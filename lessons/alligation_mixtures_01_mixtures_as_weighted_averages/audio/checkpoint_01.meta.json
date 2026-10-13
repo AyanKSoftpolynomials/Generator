@@ -1,0 +1,19 @@
+{
+  "input_hash": "92fbfefad8e3a5a58e3f954f",
+  "text": "Your turn. Four kilograms of sugar at thirty rupees a kilogram is mixed with six kilograms at fifty rupees. Find the price of the mixture.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.6909
+}

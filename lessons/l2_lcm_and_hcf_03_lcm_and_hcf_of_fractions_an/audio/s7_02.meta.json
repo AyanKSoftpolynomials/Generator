@@ -1,0 +1,18 @@
+{
+  "input_hash": "f7906a6bd622162ae256a088",
+  "text": "0.75 and 1.25 become 75 and 125. L C M of 75 and 125: 75 is 3 times 25, 125 is 5 cubed. So 3 times 125 is 375. Back to decimals: 3.75 seconds.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 25.8914
+}

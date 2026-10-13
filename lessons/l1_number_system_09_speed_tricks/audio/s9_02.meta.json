@@ -1,0 +1,17 @@
+{
+  "input_hash": "ad84044f60b145b7b06e80b7",
+  "text": "Question 1: option A. The unit digits are 8 and 9, and 8 times 9 is 72, so 2.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.4176
+}

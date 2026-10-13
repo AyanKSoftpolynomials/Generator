@@ -1,0 +1,17 @@
+{
+  "input_hash": "943e3ce27293221bfb136a70",
+  "text": "The differences are five, nine, thirteen and seventeen. They rise by four each time. The next difference is twenty-one, so the next term is forty-eight plus twenty-one, which is sixty-nine.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.0143
+}

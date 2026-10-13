@@ -1,0 +1,17 @@
+{
+  "input_hash": "1305c245724e7d827fa8ea21",
+  "text": "Yes. They are the same quantity as the binary one one zero one zero one one zero one. In decimal, all of them equal four hundred and twenty-nine. We will practise the arithmetic in the next lesson.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.4441
+}

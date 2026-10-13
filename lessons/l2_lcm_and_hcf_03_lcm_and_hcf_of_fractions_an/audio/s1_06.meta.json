@@ -1,0 +1,18 @@
+{
+  "input_hash": "4fa45300166b183cbbfb10c2",
+  "text": "To make X big enough to be divisible, the numerator should be large, so L C M on top. But the denominator should be small. So H C F on the bottom.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7003
+}

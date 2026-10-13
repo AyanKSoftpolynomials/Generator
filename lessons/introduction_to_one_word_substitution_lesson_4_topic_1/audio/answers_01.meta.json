@@ -1,0 +1,17 @@
+{
+  "input_hash": "0b570c645c7b77bb36f676b6",
+  "text": "One: illiterate. Illegible describes handwriting, not a person. Two: extempore. Verbatim means word for word. Three: agnostic. An atheist denies God; an agnostic is unsure.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.3813
+}

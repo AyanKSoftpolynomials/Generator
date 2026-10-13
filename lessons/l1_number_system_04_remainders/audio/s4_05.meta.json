@@ -1,0 +1,17 @@
+{
+  "input_hash": "129d7093d5bb6ffa0749031c",
+  "text": "The number is 56 k plus 29. 56 is a multiple of 8, so 56 k leaves no remainder. Only the 29 matters. 29 divided by 8 is 3, remainder 5.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.1487
+}

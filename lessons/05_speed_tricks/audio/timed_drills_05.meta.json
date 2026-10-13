@@ -1,0 +1,17 @@
+{
+  "input_hash": "0344668ae3ff30d38e8b131a",
+  "text": "Drill three, five seconds: a pipe fills a tank in five hours; with a leak, in six hours. How long for the leak alone?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.2844
+}

@@ -1,0 +1,19 @@
+{
+  "input_hash": "16ff404263f7f36da682e876",
+  "text": "When mixtures are given as ratios, use the fraction of one ingredient. Milk to water three to one means milk is three quarters; one to one means milk is one half.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.9114
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "6e7bffce3bfc2b3cc48ec593",
+  "text": "But you wouldn't wear the same blue to a wedding and a workout.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 3.0647
+}

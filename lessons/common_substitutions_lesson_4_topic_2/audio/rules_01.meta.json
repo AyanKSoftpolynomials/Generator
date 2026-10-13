@@ -1,0 +1,17 @@
+{
+  "input_hash": "46c57df20253fea11890884f",
+  "text": "The people drawer. Doctors for children, skin, eyes and bones: paediatrician, dermatologist, ophthalmologist, orthopaedist. A lover of mankind is a philanthropist; a hater of mankind, a misanthrope. One who hates women: a misogynist. One who knows everything: omniscient. A lover of books: a bibliophile. One who eats human flesh: a cannibal.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 27.8687
+}

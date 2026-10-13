@@ -1,0 +1,19 @@
+{
+  "input_hash": "0154741e4fead7a6cea6a867",
+  "text": "Now the pattern is obvious: the differences increase by two each time. The next difference is ten, so the next term is twenty-three plus ten, which is thirty-three.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.3497
+}

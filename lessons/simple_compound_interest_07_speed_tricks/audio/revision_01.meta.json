@@ -1,0 +1,17 @@
+{
+  "input_hash": "50eb8bf9bbbe3c45a61d4b00",
+  "text": "Use the rule of seventy-two for compound doubling estimates, one hundred over R for exact simple-interest doubling, linear scaling for simple interest and power scaling for compound interest, and a plus b plus a b over a hundred for any two successive changes.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.4113
+}

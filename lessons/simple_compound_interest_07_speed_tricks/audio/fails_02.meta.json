@@ -1,0 +1,17 @@
+{
+  "input_hash": "dc2f87435126d85d0cdaa872",
+  "text": "At one percent it gives seventy-two years, against a true sixty-nine point seven. At fifty percent it gives one point four four years, against a true one point seven one.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.9599
+}

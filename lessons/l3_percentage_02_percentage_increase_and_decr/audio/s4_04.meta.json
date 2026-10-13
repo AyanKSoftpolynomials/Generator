@@ -1,0 +1,17 @@
+{
+  "input_hash": "21bff5dc53bf3f94548a3882",
+  "text": "Then A is 125. B is less than A by 25. As a percentage of A, 25 out of 125. That's 20 percent.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.307
+}

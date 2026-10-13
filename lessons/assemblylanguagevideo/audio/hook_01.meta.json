@@ -1,0 +1,19 @@
+{
+  "input_hash": "1ee47ba7ad873b43a2bb43f2",
+  "text": "What if, instead of raw 0s and 1s, we used short, memorable abbreviations to represent the very same instructions?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.1347
+}

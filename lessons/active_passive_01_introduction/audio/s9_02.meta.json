@@ -1,0 +1,17 @@
+{
+  "input_hash": "aa1e4b63b27d0b035118a30b",
+  "text": "In the active voice, the subject does the action. In the passive, the subject receives it. The passive is be in the same tense plus V three. Only transitive verbs have a passive.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.2834
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "7892325c92bdd2982e01e1d7",
+  "text": "Context also helps decide between near-substitutes. The committee's decision was, blank: everyone agreed, so unanimous. The donor wished to remain, blank: name not known, so anonymous. Both are about people and decisions, but the sentence tells you which.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.7742
+}

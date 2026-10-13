@@ -1,0 +1,19 @@
+{
+  "input_hash": "f3ff5ec9ca7bd7e5392e85f5",
+  "text": "One: weak. Firm here means steady and strong, and soft opposes the texture meaning. Two: hesitant. A flat refusal is absolute, and round and bumpy oppose the shape meaning. Three: furnished. A bare room has no furniture, and clothed opposes the naked meaning.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.2667
+}

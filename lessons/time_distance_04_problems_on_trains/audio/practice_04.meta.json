@@ -1,0 +1,17 @@
+{
+  "input_hash": "501c503eb84ff78db38d98ec",
+  "text": "Level three, question six: a train passes two men walking in the same direction as the train, at two and four kilometres per hour, in nine seconds and ten seconds; find the train's length and speed. Question seven: two trains run in the same direction at sixty and forty-two kilometres per hour; a man sitting in the slower train sees the faster train pass him completely in twenty seconds; find the length of the faster train. Question eight: two trains of equal length run in the same direction on parallel tracks at forty-six and thirty-six kilometres per hour; the faster passes the slower completely in thirty-six seconds; find the length of each train.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 49.3065
+}

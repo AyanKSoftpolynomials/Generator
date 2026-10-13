@@ -1,0 +1,18 @@
+{
+  "input_hash": "b92f6c7d681a5361f2458c3d",
+  "text": "Perfect squares can only end in 0, 1, 4, 5, 6 or 9. 2,743 ends in 3. 3,422 ends in 2. 7,058 ends in 8. Only 5,184 is possible.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.8035
+}

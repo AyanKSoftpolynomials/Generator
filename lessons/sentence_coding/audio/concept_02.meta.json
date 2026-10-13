@@ -1,0 +1,17 @@
+{
+  "input_hash": "76c2c3b47a57e87ccb17e1d3",
+  "text": "The key fact is that a word always has the same code, in every sentence. So if a word appears in two sentences, its code must also appear in both of their codes. And if exactly one word is common to two sentences, exactly one code word is common to them, and those two must belong together.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.4488
+}

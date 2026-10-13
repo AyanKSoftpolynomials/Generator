@@ -1,0 +1,17 @@
+{
+  "input_hash": "bd0f16f21a5d0542ac193b92",
+  "text": "One important caution. Some decimal fractions never end in binary. For example, zero point one becomes zero point zero zero zero one one zero zero one one and keeps repeating. If a C-CAT question includes a fraction like this, it will tell you to stop after a stated number of places. Do not try to finish it.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.7248
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lms-video-generator",
+  "private": true,
+  "description": "Web control panel for the LMS video generator (the generator itself is Python: python generate.py).",
+  "scripts": {
+    "setup": "npm --prefix frontend install",
+    "dev": "node scripts/run_web.mjs all",
+    "backend": "node scripts/run_web.mjs backend",
+    "frontend": "node scripts/run_web.mjs frontend",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint"
+  }
+}

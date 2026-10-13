@@ -1,0 +1,19 @@
+{
+  "input_hash": "d357e79199ecc730eeb34c4c",
+  "text": "Level three, question six: in what ratio must fifteen percent and forty percent acid be mixed to make thirty percent? Question seven: tea at fifty-two and seventy-two rupees is mixed and sold at sixty-nine rupees, a profit of fifteen percent; find cheaper to dearer. Question eight: boys average sixty marks, girls average seventy-five, and the whole class averages sixty-five; find the ratio of boys to girls.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.3251
+}

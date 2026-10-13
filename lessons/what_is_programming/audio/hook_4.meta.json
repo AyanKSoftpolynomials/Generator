@@ -1,0 +1,18 @@
+{
+  "input_hash": "67b7ff5bf7d3ac39971efc3e",
+  "text": "So how did we go from a human doing arithmetic to a machine that runs its own instructions? That journey is what this lesson is about.",
+  "voice": "teacher_b",
+  "voice_reference_hash": "43b00d98b72c9000",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.5465
+}

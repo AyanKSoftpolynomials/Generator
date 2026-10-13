@@ -1,0 +1,17 @@
+{
+  "input_hash": "1a0a0204e4666009345f3e9f",
+  "text": "That's how a C program gets built. You can't compile code that hasn't been written, and you can't run an executable that hasn't been linked.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.8439
+}

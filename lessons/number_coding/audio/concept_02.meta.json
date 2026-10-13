@@ -1,0 +1,17 @@
+{
+  "input_hash": "989d0e857e6250812e5c18b2",
+  "text": "So number coding is really position arithmetic. If you can find positions quickly with EJOTY and the rule of twenty-seven, you already have most of what you need.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.6615
+}

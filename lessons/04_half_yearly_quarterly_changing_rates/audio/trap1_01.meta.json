@@ -1,0 +1,17 @@
+{
+  "input_hash": "5d6dcda20e35b7609989acfa",
+  "text": "Trap one: the rate changed but the periods not, or the reverse. Five thousand rupees at eight percent per annum, compounded quarterly, for six months.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.9608
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "93fe86c14aa268fa4f501b0e",
+  "text": "Here's the thirty-second budget. From zero to five seconds, read, split the definition into C, K and Q, and predict. From five to twenty, strike wrong categories and wrong key ideas. From twenty to twenty-five, apply the qualifier, and decode the second halves of shared-root options. From twenty-five to thirty, confirm in a sentence.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 23.2754
+}

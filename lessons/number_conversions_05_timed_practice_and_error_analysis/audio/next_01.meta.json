@@ -1,0 +1,17 @@
+{
+  "input_hash": "a6869ca2bdb1b6fa72db0199",
+  "text": "Exactly. You now have every tool for the number systems. But numbers are not the only things a computer stores. Letters, symbols, even the characters on this board have to be stored as bits.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.9655
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "2ba7fdb8830c4483f6ad5c8f",
+  "text": "Let's test it. L C M of 2, 4 and 5 is 20. L C M of 3, 9 and 6 is 18. 20 over 18 is 10 over 9. Is 10 over 9 a multiple of 2 over 3?",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.0347
+}

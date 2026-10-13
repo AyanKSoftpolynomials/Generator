@@ -1,0 +1,17 @@
+{
+  "input_hash": "36dcb0c0860050528348daee",
+  "text": "Second, similar idioms confused. Give up, stop trying, against give in, surrender to pressure. At the eleventh hour, the last moment, against in the nick of time, just in time, successfully. A close shave, a narrow escape, against a clean sweep, winning everything.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.504
+}

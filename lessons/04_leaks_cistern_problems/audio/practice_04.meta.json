@@ -1,0 +1,17 @@
+{
+  "input_hash": "a6221ed56c0682b359c900ea",
+  "text": "Level three, question six: a leak in the bottom of a tank can empty the full tank in ten hours; an inlet tap that admits six litres a minute is opened, and the full tank now empties in twelve hours; find the capacity of the tank. Question seven: a cistern has an inlet that fills it in six hours and a leak that empties it in twelve hours; a tap that draws ten litres a minute is also open; with all three, the empty cistern fills in twenty hours; find its capacity. Question eight: a pipe normally fills a tank in six hours; when the tank was half full, a leak developed, and the tank took one hour longer than usual to fill; how long would the leak alone take to empty the full tank?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 48.7688
+}

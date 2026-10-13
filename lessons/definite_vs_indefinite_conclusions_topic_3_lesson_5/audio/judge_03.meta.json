@@ -1,0 +1,19 @@
+{
+  "input_hash": "b33364efde9f6f064b91f90e",
+  "text": "For example, if you derive A is greater than D, then A is greater than or equal to D also follows, because it's a weaker claim. But if you derive only A is greater than or equal to D, then A is greater than D does not follow, because equality is still possible.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.634
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "d89b555c5ebd18a0ca4e5222",
+  "text": "Beats by seconds: A beats B by t seconds means B finishes t seconds after A. If both the metres and the seconds are given, B covers the last x metres in t seconds, so B's speed is x over t.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.0205
+}

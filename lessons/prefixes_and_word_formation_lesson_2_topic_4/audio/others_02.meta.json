@@ -1,0 +1,19 @@
+{
+  "input_hash": "720b3676ded1d918288b7bf8",
+  "text": "Non means not a member of: non-member, non-violent. Mis means wrongly, not opposite. Misunderstand is wrong understanding, not the opposite of understanding.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.8243
+}

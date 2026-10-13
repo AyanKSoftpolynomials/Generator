@@ -1,0 +1,17 @@
+{
+  "input_hash": "2c3e1013fac79b8ec8fd9836",
+  "text": "A percentage for managing: A one lakh twenty thousand, with fifteen percent for managing, B eighty thousand, and a profit of forty thousand. Six thousand, plus three fifths of thirty-four thousand: A twenty-six thousand four hundred, B thirteen thousand six hundred.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.9401
+}

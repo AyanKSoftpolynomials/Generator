@@ -1,0 +1,17 @@
+{
+  "input_hash": "a0455c56097e2e70e7f9d6d8",
+  "text": "That's why precise writing matters. In contracts, documentation and your own emails, a near miss can change what you've actually promised.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.9467
+}

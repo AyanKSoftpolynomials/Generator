@@ -1,0 +1,18 @@
+{
+  "input_hash": "497f9d6737f37faf23eb6a99",
+  "text": "Aligning events means L C M, and equal splitting means H C F. Convert to the same units first. Re-read what's being asked: a size, a count or a time. Check the fence posts. For close numbers, use the differences to find the H C F.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.2867
+}

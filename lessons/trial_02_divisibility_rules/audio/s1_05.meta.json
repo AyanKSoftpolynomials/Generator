@@ -1,0 +1,18 @@
+{
+  "input_hash": "6f2f5a55599bd6d19a2ad192",
+  "text": "Because 1000 is divisible by 8. Everything above the last three digits is a multiple of 1000, so it's already divisible by 8. Only the last three digits can leave a remainder.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.6364
+}

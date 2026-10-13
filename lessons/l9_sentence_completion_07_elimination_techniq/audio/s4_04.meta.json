@@ -1,0 +1,17 @@
+{
+  "input_hash": "bf33636bc3bb077a74473c57",
+  "text": "Terse means very short. Short isn't necessarily easy to follow. So, blank, that even non-technical managers followed every step is about clarity. So lucid.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.3616
+}

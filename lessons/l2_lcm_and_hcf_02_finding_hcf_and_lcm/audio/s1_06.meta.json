@@ -1,0 +1,17 @@
+{
+  "input_hash": "ac6a6fe8da31b22c452a145f",
+  "text": "1071 is 3 squared times 7 times 17. 462 is 2 times 3 times 7 times 11. Common: 3 times 7, which is 21. It matches.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.0818
+}

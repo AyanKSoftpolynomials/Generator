@@ -1,0 +1,19 @@
+{
+  "input_hash": "b1efcda0290ae4b0b29c5818",
+  "text": "The wrong instinct sees fifteen litres of juice in fifteen litres: one hundred percent. The correct answer is fifteen litres in twenty: seventy-five percent.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.0013
+}

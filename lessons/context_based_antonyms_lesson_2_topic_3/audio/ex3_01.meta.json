@@ -1,0 +1,19 @@
+{
+  "input_hash": "6b2f9e69585b991bee7e58a1",
+  "text": "The team gave a sound argument. Silent, weak, quiet, or sick? Sound here means strong, or valid. So the opposite is weak. Silent and quiet oppose the noise meaning, and sick opposes the healthy meaning.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.7626
+}

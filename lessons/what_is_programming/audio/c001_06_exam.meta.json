@@ -1,0 +1,17 @@
+{
+  "input_hash": "46080dc35a69e4b219e1da98",
+  "text": "In C-CAT, this concept shows up as conceptual, definition-based questions. Expect to be asked to pick the correct definition of programming, or to tell apart terms that sound almost the same \u2014 especially program versus programming. Keep the anchor in your head: programming is the process, a program is the product. A question might also describe a task and ask what a computer needs in order to perform it \u2014 and the answer it's looking for is a clear, ordered set of instructions, not intelligence or guesswork on the computer's part.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 34.4357
+}

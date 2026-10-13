@@ -1,0 +1,17 @@
+{
+  "input_hash": "ee870b921ada933a4fa083d5",
+  "text": "Right. It eliminates options quickly. But it's only a first filter. In Question 1, nine twelve means 12 minutes. That passes the size check, because it isn't smaller than 12. It still fails the definition, because 12 isn't a multiple of 8.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.7184
+}

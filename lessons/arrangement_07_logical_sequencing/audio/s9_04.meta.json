@@ -1,0 +1,17 @@
+{
+  "input_hash": "8be1c54e02020f3b282a656b",
+  "text": "Problem to solution: Q, the symptom. P narrows it down to slow networks. S finds the root cause, large images. R is the fix and the result. Q, P, S, R, option A. Option B states the root cause before narrowing down. Option C narrows down before the symptom. Option D fixes the problem before diagnosing it.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.2785
+}

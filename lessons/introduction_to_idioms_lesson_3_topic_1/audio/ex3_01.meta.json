@@ -1,0 +1,17 @@
+{
+  "input_hash": "83c869f39371e42a2f6a430a",
+  "text": "Once in a blue moon. At night, very rarely, every month, or never? The picture: a blue moon is a rare sight. The idea: very rarely. Never goes too far: rare still happens. At night is literal, and every month is too often. The answer is very rarely.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.9891
+}

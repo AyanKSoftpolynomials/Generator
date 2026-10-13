@@ -1,0 +1,17 @@
+{
+  "input_hash": "b2b46f3446f7a211c4f668c9",
+  "text": "X percent of the profit means x percent of the total profit, unless the question says after charging the commission. Then the commission C is x percent of P minus C, which gives C as P times x, over one hundred plus x.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.458
+}

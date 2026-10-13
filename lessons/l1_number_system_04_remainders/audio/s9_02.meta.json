@@ -1,0 +1,18 @@
+{
+  "input_hash": "3690f8219c499496a960ebdf",
+  "text": "2 to the power 3 is 8, which leaves remainder 1 when divided by 7, so the cycle is 3. 100 is 3 times 33, plus 1. Remainder is 2 to the power 1, which is 2. The answer is option B.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.7222
+}

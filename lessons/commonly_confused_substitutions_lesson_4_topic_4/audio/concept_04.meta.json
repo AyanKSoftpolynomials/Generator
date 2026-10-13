@@ -1,0 +1,17 @@
+{
+  "input_hash": "950ffd2706fcad5df9f2ab24",
+  "text": "Level. An amateur does it for pleasure, not money; a novice is a beginner. An atheist denies God; an agnostic is unsure.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.2737
+}

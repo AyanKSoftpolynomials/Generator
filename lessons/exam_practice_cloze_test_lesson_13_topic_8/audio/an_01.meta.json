@@ -1,0 +1,17 @@
+{
+  "input_hash": "d71b9621f1220cc3b3f66a68",
+  "text": "An inspector checks each part, then switches on the assembled machine to see if it runs smoothly. R is switching the machine on.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.7548
+}

@@ -1,0 +1,18 @@
+{
+  "input_hash": "3a722980704d3d625f3541f0",
+  "text": "A, with 3 units, has a rate of 3 over 30, or 1 over 10 \u2014 taking 10 days alone.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 5.0551
+}

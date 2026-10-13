@@ -1,0 +1,17 @@
+{
+  "input_hash": "b230e8a59aeb09c3e69673b6",
+  "text": "Moving apart: from one point in opposite directions at thirty-five and forty-five kilometres per hour; when are they two hundred kilometres apart? Two hundred divided by eighty: two and a half hours.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.7384
+}

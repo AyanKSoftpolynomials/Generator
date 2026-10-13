@@ -1,0 +1,17 @@
+{
+  "input_hash": "a7768cbd6336f2ae441a73eb",
+  "text": "Level three, question six: A starts a business with fifty-four thousand rupees; some months later, B joins with seventy-two thousand; at the end of the year, the profit is shared in the ratio three to two; after how many months did B join? Question seven: A invests sixty thousand rupees for the whole year, and B joins after four months; of a profit of forty-five thousand, B receives twenty thousand; how much did B invest? Question eight: A starts a business with forty thousand rupees; B joins after three months with sixty thousand, and C joins six months after B with one lakh twenty thousand; the year's profit is sixty-nine thousand; find each share.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 42.6206
+}

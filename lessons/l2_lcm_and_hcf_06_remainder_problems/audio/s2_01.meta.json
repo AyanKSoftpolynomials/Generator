@@ -1,0 +1,17 @@
+{
+  "input_hash": "4fb4ef2855a420ff2f448b28",
+  "text": "Four patterns cover nearly all of these questions. Two use the L C M, for the smallest number with given remainders. Two use the H C F, for the largest divisor that leaves given remainders.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.5762
+}

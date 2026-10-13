@@ -1,0 +1,17 @@
+{
+  "input_hash": "a3d04e720cf8a0cbdb36d2c4",
+  "text": "Yes. You, your siblings, your spouse, your cousins: all on row zero. Children, nephews and nieces sit one row down, grandchildren two rows down.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.0908
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "de6c0739fb6a423adb73fdba",
+  "text": "R opens. P's these snapshots points to R. Q's they is plural, so it needs P's commits right before it. S, each commit, adds detail last. R, P, Q, S, option A. Option B makes they skip over a singular sentence. Option C uses each commit before commits are named. Option D opens with these.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 26.8672
+}

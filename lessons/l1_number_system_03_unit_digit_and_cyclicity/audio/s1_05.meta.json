@@ -1,0 +1,18 @@
+{
+  "input_hash": "094d528aa2a1ae9e4a8b718c",
+  "text": "The last digit of a product depends only on the last digits of the factors. Once 1 comes back round, multiplying by 7 gives 7 again, and the whole cycle restarts.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.3866
+}

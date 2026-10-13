@@ -1,0 +1,17 @@
+{
+  "input_hash": "a2ae98c31f53bf593908bc5a",
+  "text": "Level one, question one: a person walks six kilometres east, then eight north; how far from the start? Question two: a person walks five kilometres north, four east, two south and four west; how far, and in which direction, from the start? Question three: a person walks ten metres south, turns around and walks four metres; how far from the start?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 23.1624
+}

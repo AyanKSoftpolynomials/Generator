@@ -1,0 +1,17 @@
+{
+  "input_hash": "d593cdaa4f522680ff112ef1",
+  "text": "Commands use let plus object plus be plus V three. Requests use you are requested to. Advice uses you are advised to. Prohibitions use let, not be plus V three. Commands with no object use you are ordered to. Tone first.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.1062
+}

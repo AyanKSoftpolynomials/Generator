@@ -1,0 +1,17 @@
+{
+  "input_hash": "f178b1845892852c2b245fce",
+  "text": "This isn't just theory \u2014 it's everything ahead of you. Every app on your phone, every website, every game is a program: a set of instructions that someone wrote. In this course, you'll write those instructions in a language called C. And no matter how advanced the topic gets later \u2014 repeating steps, making decisions, handling data \u2014 you'll always be doing the exact thing you learned today: breaking a problem into precise, ordered steps a computer can follow. Master this way of thinking now, and the rest of C becomes learning new kinds of instructions, not a new way of thinking.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 42.3792
+}

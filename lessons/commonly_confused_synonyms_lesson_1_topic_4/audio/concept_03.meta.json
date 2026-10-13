@@ -1,0 +1,17 @@
+{
+  "input_hash": "484619e27ab7d7d382f919f6",
+  "text": "In a synonym question, a look-alike of the question word is almost always a trap. And if a near-alike appears, check which half of the pair the question word really is.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.9601
+}

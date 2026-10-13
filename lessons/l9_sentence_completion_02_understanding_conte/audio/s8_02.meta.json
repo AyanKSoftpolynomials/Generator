@@ -1,0 +1,17 @@
+{
+  "input_hash": "736c0fa7dd9f53af695015fa",
+  "text": "Situation: three outages. Direction: negative. Degree: measured, in a formal meeting. That's option B, frosty. Cordial and jubilant are positive. Indifferent is neutral, and a client after three outages isn't indifferent.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.1125
+}

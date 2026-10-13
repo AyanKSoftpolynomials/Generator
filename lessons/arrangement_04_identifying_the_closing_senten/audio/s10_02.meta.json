@@ -1,0 +1,18 @@
+{
+  "input_hash": "c690aca19a559715776b1dd6",
+  "text": "Closers conclude, summarise, recommend or look ahead. Look for therefore, for these reasons, now, a policy or an outcome. Use opener and closer as bookends to filter the options. Then settle the middle with mandatory pairs.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.4295
+}

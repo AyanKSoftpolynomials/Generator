@@ -1,0 +1,17 @@
+{
+  "input_hash": "bea2d05622215159a56972b2",
+  "text": "Register is how formal a sentence is. Exams and professional writing expect a neutral-to-formal register: no slang, like wanna, gonna, gotta; no chat abbreviations, like P L S or T H X; and no overly casual openers, like hey, in formal communication.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.516
+}

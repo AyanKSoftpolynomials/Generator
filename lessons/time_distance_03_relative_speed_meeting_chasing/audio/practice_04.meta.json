@@ -1,0 +1,17 @@
+{
+  "input_hash": "d84bd129abae36fc50825cd1",
+  "text": "Level three, question six: A and B start at the same time towards each other; after meeting, A takes sixteen hours and B nine hours to reach their destinations; find the ratio of their speeds, and B's speed if A's is forty-five kilometres per hour. Question seven: a policeman spots a thief two hundred metres ahead; the thief runs at ten kilometres per hour and the policeman at twelve; how far does the thief run before he is caught? Question eight: two cars start at the same time from towns A and B towards each other at fifty and forty kilometres per hour; when they meet, one has covered sixty kilometres more than the other; find the distance A B.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 43.2676
+}

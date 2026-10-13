@@ -1,0 +1,17 @@
+{
+  "input_hash": "927469b707670a69237e7c45",
+  "text": "M is meaning in context: if there's a sentence, oppose the meaning used there. And D is decode: for prefixed or unfamiliar words, decode the true meaning, like inflammable and disinterested, or use roots.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.2916
+}

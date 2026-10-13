@@ -1,0 +1,18 @@
+{
+  "input_hash": "0fa4b02d58923ee16490a5c9",
+  "text": "Every reference word needs a target that comes before it, matching in number and type, usually in the sentence right before. The former and the latter need two named items. A introduces, the refers back, and such generalises.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.3193
+}

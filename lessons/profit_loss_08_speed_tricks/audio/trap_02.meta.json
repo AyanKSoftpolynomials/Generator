@@ -1,0 +1,17 @@
+{
+  "input_hash": "c4f88a555c783bb2995351c2",
+  "text": "The wrong instinct takes one eighth off the selling price: five hundred and forty times seven eighths, four hundred and seventy-two rupees fifty. Correctly, five hundred and forty times eight ninths is four hundred and eighty.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.609
+}

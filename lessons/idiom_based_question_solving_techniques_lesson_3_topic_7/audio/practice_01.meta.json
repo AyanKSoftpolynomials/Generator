@@ -1,0 +1,17 @@
+{
+  "input_hash": "1b321bc59c7e9067aaa5e95c",
+  "text": "Your turn, thirty seconds each. One: to turn over a new leaf. Read a new page, start gardening, change one's behaviour for the better, or become lazy? Two: to be in the same boat. Travel together, face the same difficult situation, work on a ship, or compete? Three: to throw in the towel. Admit defeat, clean up, start a fight, or get angry?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 24.9077
+}

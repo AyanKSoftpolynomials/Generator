@@ -1,0 +1,17 @@
+{
+  "input_hash": "aa6aaf459fd752bad2a79a99",
+  "text": "Different starts: A leaves at nine in the morning at forty kilometres per hour, and B follows from the same point at eleven at sixty. The head start is eighty kilometres, and eighty divided by twenty is four hours: three in the afternoon.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.4758
+}

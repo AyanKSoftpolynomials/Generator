@@ -1,0 +1,17 @@
+{
+  "input_hash": "dae57af32030305446b9ed3b",
+  "text": "Trap three: twice as long, read as u equals two v. Upstream takes twice as long as downstream: what is u to v?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.5686
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "549af498929f5f1814fa37f9",
+  "text": "Level two, question three: A, B and C invest capitals in the ratio a third, a quarter and a sixth for the same period; the profit is forty-five thousand rupees; find each share. Question four: A starts with one lakh rupees and withdraws forty thousand after three months; B invests eighty thousand for the whole year; the profit is sixty thousand; find each share. Question five: A and B start with forty thousand and fifty thousand rupees; after six months, A adds twenty thousand and B withdraws ten thousand; the year's profit is thirty-eight thousand; find each share.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 41.2449
+}

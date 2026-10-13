@@ -1,0 +1,17 @@
+{
+  "input_hash": "33402b1e403b3fd6c1c2d94b",
+  "text": "Sixty-four, then seventy-five minus sixty-four is eleven. Eight, then three. Two and one. Writing the positions: sixty-four is one, thirty-two is zero, sixteen is zero, eight is one, four is zero, two is one, one is one. That gives one zero zero one zero one one, option A.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.9115
+}

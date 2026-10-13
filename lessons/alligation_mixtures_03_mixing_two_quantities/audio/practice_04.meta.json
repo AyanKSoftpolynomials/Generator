@@ -1,0 +1,19 @@
+{
+  "input_hash": "dee4509e7a48ac330c9846ad",
+  "text": "Level three, question six: how much pure milk must be added to thirty litres of a mixture that is sixty percent milk to make it seventy-five percent? Question seven: milk to water is two to one in one vessel and four to one in another; in what ratio must they be mixed to get three to one? Question eight: a forty litre mixture has milk and water in the ratio three to one; how much water must be added to make it two to one?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.0921
+}

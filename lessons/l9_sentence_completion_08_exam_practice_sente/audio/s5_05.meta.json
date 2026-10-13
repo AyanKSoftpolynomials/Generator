@@ -1,0 +1,17 @@
+{
+  "input_hash": "29560dcf6cc578a8ae218f60",
+  "text": "Blank two: this, blank, upfront costs. Renting means you don't buy servers, so upfront costs go down. Reduces, option B.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.8219
+}

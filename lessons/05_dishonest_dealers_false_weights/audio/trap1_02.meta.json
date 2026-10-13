@@ -1,0 +1,17 @@
+{
+  "input_hash": "a8d3ad8a8e097ca6af62e4aa",
+  "text": "The wrong instinct is one hundred over one thousand, ten percent. The correct answer is one hundred over nine hundred, eleven point one one percent.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.395
+}

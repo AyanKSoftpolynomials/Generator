@@ -1,0 +1,17 @@
+{
+  "input_hash": "a630459da1aa369fca64d1e6",
+  "text": "37.5 times 4,800 divided by 100. 37.5 times 48. That's, 1,800. It took me a while.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7653
+}

@@ -1,0 +1,19 @@
+{
+  "input_hash": "f5d0169feafb539a54be99e4",
+  "text": "Level three, question six: a forty-five litre vessel is full of milk, and the same amount is replaced with water twice, leaving twenty litres of milk; how much is replaced each time? Question seven: six litres of a vessel full of wine is replaced with water, twice, and wine to water is now twenty-five to eleven; find the capacity. Question eight: from an eighty litre vessel of milk, sixteen litres is replaced with water, and then twenty litres; how much milk is left?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 27.6474
+}

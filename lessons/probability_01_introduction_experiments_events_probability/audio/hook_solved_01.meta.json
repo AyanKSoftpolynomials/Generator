@@ -1,0 +1,17 @@
+{
+  "input_hash": "ad4657dba69cf8d9aa85263c",
+  "text": "The primes from one to forty are two, three, five, seven, eleven, thirteen, seventeen, nineteen, twenty-three, twenty-nine, thirty-one and thirty-seven. That is twelve; one is not prime.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.5785
+}

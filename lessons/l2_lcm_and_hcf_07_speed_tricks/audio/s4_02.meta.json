@@ -1,0 +1,17 @@
+{
+  "input_hash": "ebc7aaca9061559b3768548c",
+  "text": "Ratio 3 to 4 with H C F 15 means the numbers are 15 times 3 and 15 times 4, so 45 and 60. 3 and 4 are coprime, so the L C M is 15 times 3 times 4, which is 180.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.9049
+}

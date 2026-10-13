@@ -1,0 +1,17 @@
+{
+  "input_hash": "dfe603e7fa88b3b2a4df4c84",
+  "text": "Right. Sister's husband is also a brother-in-law. Son's wife: one row down, daughter-in-law. Two more for you: wife's mother, and daughter's son.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.0352
+}

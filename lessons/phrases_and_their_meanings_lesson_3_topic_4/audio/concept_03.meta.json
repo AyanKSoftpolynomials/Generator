@@ -1,0 +1,17 @@
+{
+  "input_hash": "8ec3336e914dd20047fc7882",
+  "text": "Fixed phrases work similarly. In lieu of means instead of. By dint of: by means of. In view of: considering. On account of: because of. At the behest of: at the request of. These appear in formal writing, and in phrase-meaning questions.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.7212
+}

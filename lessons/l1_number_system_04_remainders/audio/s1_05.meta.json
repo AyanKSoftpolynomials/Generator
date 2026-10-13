@@ -1,0 +1,18 @@
+{
+  "input_hash": "723e9a0e62f6b15c55d428b6",
+  "text": "Because 8 leaves remainder 1. Once you're back at 1, multiplying by 2 starts the cycle over.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.7386
+}

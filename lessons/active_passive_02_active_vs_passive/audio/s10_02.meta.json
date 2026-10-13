@@ -1,0 +1,18 @@
+{
+  "input_hash": "bdc75fa9eea7a404c8420b17",
+  "text": "Passive is be plus V three of an action verb. Use the by test. Drop vague or obvious agents. Use the active when the doer matters, and the passive when the receiver or process matters. Two-object verbs give two possible passives.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.1137
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "841209a01bd518b86e14d33e",
+  "text": "Videos one and two matched definitions to words. In real sentences, and in many exam questions, the definition is embedded in a sentence, and the word you choose must fit there.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.9827
+}

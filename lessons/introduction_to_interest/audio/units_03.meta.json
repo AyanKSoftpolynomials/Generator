@@ -1,0 +1,17 @@
+{
+  "input_hash": "14865b69806a4e957376db26",
+  "text": "To convert a monthly rate to a yearly one, multiply by twelve. To convert months to years, divide by twelve: eight months is eight twelfths of a year.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.6666
+}

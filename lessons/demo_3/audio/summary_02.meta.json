@@ -1,0 +1,18 @@
+{
+  "input_hash": "59583e867380e83935e4222a",
+  "text": "Add the ratio's numbers for total units, divide the combined rate by that total for one unit's value, then multiply back out for each person's individual rate.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.3898
+}

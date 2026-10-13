@@ -1,0 +1,17 @@
+{
+  "input_hash": "b3ce66f00f764124c5b40fd8",
+  "text": "Bank B offers a higher headline rate: eight point two percent a year, compounded yearly.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 5.2291
+}

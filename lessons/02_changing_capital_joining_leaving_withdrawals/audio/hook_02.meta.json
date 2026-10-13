@@ -1,0 +1,17 @@
+{
+  "input_hash": "bc863c616c52ccbe6efe32a6",
+  "text": "Six months after the start, A takes fifty thousand rupees out to cover a personal expense. At the end of the year, the profit is one lakh sixty thousand rupees.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.7265
+}

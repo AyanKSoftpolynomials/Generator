@@ -1,0 +1,17 @@
+{
+  "input_hash": "632c2afdc47c55197401e236",
+  "text": "Most definitions describe one of four things: a person, someone who; an action, the act of; a place, a place where; or a state or quality, that which cannot be.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.6839
+}

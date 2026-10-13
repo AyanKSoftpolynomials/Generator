@@ -1,0 +1,17 @@
+{
+  "input_hash": "62a248e1c313f9e496ab8fea",
+  "text": "Let's set up the vocabulary we'll use in every lesson of this chapter. The original word is the meaningful word we start with, for example, CAT. The code word is what that word becomes after a transformation, for example, DBU. The coding rule is the fixed logic that turns the original word into the code word. Coding means applying the rule to get the code word. Decoding means reversing the rule to recover the original word. In a coding-decoding question, you are usually given one or more pairs of original and code words. From them you must find the rule, and then apply it to a new word. So, formally: coding-decoding is a reasoning task in which you identify the systematic rule that transforms given information into a coded form, and then apply that rule consistently to new information. The key word is systematic. A valid coding rule applies the same way to every letter, or follows a clear pattern across positions. If a rule works for one letter but not the next, it is not the rule.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 78.1075
+}

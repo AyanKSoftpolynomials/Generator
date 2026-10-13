@@ -1,0 +1,17 @@
+{
+  "input_hash": "5ffcfa52c295c910c6aad8d0",
+  "text": "Five: the interest is four thousand and two thousand, and the remainder, twenty-four thousand, gives twelve thousand each: A gets sixteen thousand and B fourteen thousand.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.0541
+}

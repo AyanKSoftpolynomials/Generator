@@ -1,0 +1,17 @@
+{
+  "input_hash": "632db9eebecc1333e318cf6b",
+  "text": "Increase means multiplying by 1 plus x over 100, and decrease means multiplying by 1 minus x over 100. To reverse a change, divide by the multiplier. More than and less than use different bases. When no values are given, start with 100.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.4526
+}

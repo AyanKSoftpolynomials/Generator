@@ -1,0 +1,17 @@
+{
+  "input_hash": "5c771d94316da732439213b0",
+  "text": "Six: the tap is C over ten minus C over twelve, C over sixty per hour, which is six times sixty, three hundred and sixty litres an hour; so C is twenty-one thousand six hundred litres.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.0991
+}

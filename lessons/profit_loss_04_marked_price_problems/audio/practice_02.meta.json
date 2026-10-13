@@ -1,0 +1,17 @@
+{
+  "input_hash": "8556c846747eb2f0cf3e601e",
+  "text": "Level two, question four: three bells ring every six, eight and twelve minutes; if they ring together now, after how many minutes will they next ring together? Question five: find the H C F and L C M of twenty and thirty. Question six: two runners complete a lap in twelve and eighteen minutes; if they start together, after how many minutes will they next be together at the start?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 24.4224
+}

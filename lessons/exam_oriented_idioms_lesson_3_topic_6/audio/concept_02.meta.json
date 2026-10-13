@@ -1,0 +1,17 @@
+{
+  "input_hash": "e0bb44782500a4c585590271",
+  "text": "Bell the cat comes from a fable in which the mice agree that a bell on the cat would save them, but no mouse dares to tie it. So it means: take on a risky task that everyone agrees is needed, but nobody wants to do.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.2013
+}

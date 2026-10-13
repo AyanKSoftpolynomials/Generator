@@ -1,0 +1,17 @@
+{
+  "input_hash": "ac3561589eccdb93abd16636",
+  "text": "What makes these questions tricky is that the options are usually from the same family. For two languages, you'll see linguist, someone who studies languages; polyglot, someone who speaks many languages; and translator, someone who converts between languages. They're all related. Only one matches every part of the definition.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.6595
+}

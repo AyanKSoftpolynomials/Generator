@@ -1,0 +1,18 @@
+{
+  "input_hash": "28fe8b38aa346626313902e2",
+  "text": "Factorise into primes, then add one to each exponent and multiply. For odd factors, drop the 2s. Even factors are total minus odd. The sum of factors is the product of geometric sums. Perfect squares have an odd number of factors.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.4745
+}

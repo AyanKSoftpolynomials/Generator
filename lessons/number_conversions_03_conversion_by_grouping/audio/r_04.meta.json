@@ -1,0 +1,17 @@
+{
+  "input_hash": "f18a5068e62c449def11f23c",
+  "text": "We padded the left with a zero. And two three four in octal is the same as one hundred and fifty-six in decimal, which is the number we converted by division last time.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.1733
+}

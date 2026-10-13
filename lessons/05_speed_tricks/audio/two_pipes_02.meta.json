@@ -1,0 +1,17 @@
+{
+  "input_hash": "9c3775d00be220e2ccfa8441",
+  "text": "Shortcut two: fill and empty together. An inlet fills in x and an outlet empties in y, with y bigger than x: the tank fills in x y over y minus x. For six and nine hours: fifty-four divided by three is eighteen hours.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.2797
+}

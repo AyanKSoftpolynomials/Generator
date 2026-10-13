@@ -1,0 +1,17 @@
+{
+  "input_hash": "1c2bb6cd082a50bb3c175d8d",
+  "text": "A word with several related senses is called polysemous. Poly means many and sem means meaning. Most common English words are like this: run, hold, address, charge, issue.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.0458
+}

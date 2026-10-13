@@ -1,0 +1,17 @@
+{
+  "input_hash": "25d5f6db3bf0ced4e7d48006",
+  "text": "In the next lecture, Unit Digit and Cyclicity, we will find the unit digit of huge powers such as 7 to the power 2025, using the cycles in which last digits repeat.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.4857
+}

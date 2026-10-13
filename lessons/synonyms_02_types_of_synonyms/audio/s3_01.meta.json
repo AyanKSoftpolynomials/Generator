@@ -1,0 +1,17 @@
+{
+  "input_hash": "c3d75ecf4ecbd9c3dd8eca55",
+  "text": "The exam rarely asks you to name a type. Instead, it puts two options with the same core meaning side by side and expects you to spot which attribute fits. Here are two practice questions written for this class, not taken from a past paper.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.2279
+}

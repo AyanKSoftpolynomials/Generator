@@ -1,0 +1,18 @@
+{
+  "input_hash": "fb7bc64f441b3313c4a2945d",
+  "text": "72 is 2 cubed times 3 squared. 60 is 2 squared times 3 times 5. H C F: 2 squared times 3, which is 12. L C M: 2 cubed times 3 squared times 5, which is 360. Both match.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.0966
+}

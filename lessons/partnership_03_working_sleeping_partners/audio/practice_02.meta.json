@@ -1,0 +1,17 @@
+{
+  "input_hash": "37cb6df7d70935afa9c2ce9b",
+  "text": "Level two, question three: A and B invest in the ratio two to three; A, the working partner, gets twenty percent of the profit, and the rest is shared in the ratio of capitals; the profit is forty-five thousand; find each partner's total. Question four: A and B invest fifty thousand rupees each; A, the managing partner, gets a commission of ten percent of the profit after charging his commission, and the rest is shared equally; the profit before commission is thirty-three thousand; find A's total. Question five: A and B invest eighty thousand and forty thousand rupees; each receives five percent a year interest on capital, and the remaining profit is shared equally; the year's profit is thirty thousand; find each partner's total.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 48.1969
+}

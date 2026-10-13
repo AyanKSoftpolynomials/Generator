@@ -1,0 +1,17 @@
+{
+  "input_hash": "2b5c251c45f586314b2eab33",
+  "text": "So with a shift of plus two, Y becomes A, and Z becomes B. ZEBRA becomes BGDTC.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.7318
+}

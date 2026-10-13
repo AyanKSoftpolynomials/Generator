@@ -1,0 +1,17 @@
+{
+  "input_hash": "70e1c18db90894fcea240941",
+  "text": "Level one, question one: a town's population is twenty thousand and grows ten percent per year; what is it after two years? Question two: a machine bought for one lakh twenty-five thousand rupees loses twenty percent of its value each year; find its value after two years.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.2083
+}

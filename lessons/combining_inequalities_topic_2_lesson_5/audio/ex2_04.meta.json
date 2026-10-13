@@ -1,0 +1,17 @@
+{
+  "input_hash": "28537b2719b705a2e3c0ba77",
+  "text": "From I to K, the path is greater-than-or-equal and then equals. They point the same way, with no strict sign, so I is greater than or equal to K.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.6463
+}

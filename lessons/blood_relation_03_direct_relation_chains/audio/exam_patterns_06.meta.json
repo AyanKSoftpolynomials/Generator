@@ -1,0 +1,17 @@
+{
+  "input_hash": "b30b7e2b736f19c346cfe1fc",
+  "text": "Yes. And watch the last one. G is the son of H, H is the husband of J, but the question asks about J. Walk from G: father, then his wife. Mother.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.1633
+}

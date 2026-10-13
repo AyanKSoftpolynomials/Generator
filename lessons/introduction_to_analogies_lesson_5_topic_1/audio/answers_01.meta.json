@@ -1,0 +1,17 @@
+{
+  "input_hash": "983405b3fef7ac0552b7e225",
+  "text": "One: school. A teacher works in a school; a student is who they teach. Two: hear. An organ and its function, a verb; sound is a noun. Three: puppy. An animal and its young.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.5185
+}

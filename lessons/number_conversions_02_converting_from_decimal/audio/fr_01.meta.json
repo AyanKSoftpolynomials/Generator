@@ -1,0 +1,17 @@
+{
+  "input_hash": "9a3d69c95031980178ea2563",
+  "text": "Now fractions. Take zero point six two five in decimal. For the fractional part, the method changes. We multiply by the base, and the integer part that appears is the next digit.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.6592
+}

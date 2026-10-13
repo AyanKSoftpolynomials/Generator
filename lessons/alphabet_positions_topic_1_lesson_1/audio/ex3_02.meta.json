@@ -1,0 +1,17 @@
+{
+  "input_hash": "c510772ce9d28eec763a582b",
+  "text": "The direct method is to convert each letter. C is three forward, so twenty-four in reverse. A is one forward, so twenty-six in reverse. T is twenty forward, so seven in reverse.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.2431
+}

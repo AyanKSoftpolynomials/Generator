@@ -1,0 +1,17 @@
+{
+  "input_hash": "4903d55ab88611fd58ad39bf",
+  "text": "Exactly. The remainder is the lowest bit, since the lowest bit of a binary number says whether it is odd or even. So we take the remainder as the last bit, and then repeat the process on the quotient, which has lost its lowest bit. We peel off one bit at a time.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.7948
+}

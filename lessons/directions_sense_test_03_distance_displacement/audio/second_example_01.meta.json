@@ -1,0 +1,17 @@
+{
+  "input_hash": "6ef84f03d99fb55482d55d38",
+  "text": "A person starts facing north, walks four kilometres, turns right and walks six, turns right and walks four, then turns left and walks two. How far, and in which direction, is the person from the start?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.7288
+}

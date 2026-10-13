@@ -1,0 +1,17 @@
+{
+  "input_hash": "806f55675a158a6cbad55d1b",
+  "text": "Step six: substitute. The manager remained stubborn about the deadline. That works. So the answer is option C, stubborn.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.5822
+}

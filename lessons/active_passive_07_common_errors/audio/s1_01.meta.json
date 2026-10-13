@@ -1,0 +1,17 @@
+{
+  "input_hash": "c8b92e71d91bea6003c4d5d7",
+  "text": "Four sentences, and each one breaks a different rule from the last five lessons. The class has to name every rule.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.6652
+}

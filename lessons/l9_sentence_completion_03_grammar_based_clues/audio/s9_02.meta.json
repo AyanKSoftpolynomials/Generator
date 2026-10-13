@@ -1,0 +1,18 @@
+{
+  "input_hash": "61af06d45970d163a1cc2795",
+  "text": "Check left and right of the blank first: articles, modals, to, has, prepositions, more, and singular or plural. Grammar first, meaning second.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.9132
+}

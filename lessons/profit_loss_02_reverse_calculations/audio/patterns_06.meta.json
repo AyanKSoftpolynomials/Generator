@@ -1,0 +1,17 @@
+{
+  "input_hash": "e86aae8c410b788fb8f2a0c6",
+  "text": "Equal percentages at two prices: the same percent profit at one thousand and forty as percent loss at eight hundred and eighty means cost price is the average, nine hundred and sixty.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.5705
+}

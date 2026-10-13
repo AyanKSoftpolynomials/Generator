@@ -1,0 +1,17 @@
+{
+  "input_hash": "e3f21b20a560a22d0c817711",
+  "text": "One: suspect something is wrong. Find a pest is literal. Two: a complete surprise. Lightning and bad weather are literal. Three: to have a selfish motive. To be a carpenter is literal, and to be angry is only nearby.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.5695
+}

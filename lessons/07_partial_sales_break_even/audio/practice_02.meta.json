@@ -1,0 +1,17 @@
+{
+  "input_hash": "64acf5c4a03e8ff26262eb06",
+  "text": "Level two, question three: a trader buys forty kilograms of rice at thirty rupees a kilogram, and sells twenty-five kilograms at thirty-six rupees a kilogram; at what price per kilogram must he sell the remaining fifteen kilograms, for a ten percent overall profit? Question four: one third of the goods, by cost, is sold at a twenty-four percent profit, and the rest at a six percent loss; find the overall result. Question five: eighty articles cost twenty rupees each; fifty are sold at twenty-five rupees each; at what price must the rest be sold to gain twenty-five percent overall?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 37.9464
+}

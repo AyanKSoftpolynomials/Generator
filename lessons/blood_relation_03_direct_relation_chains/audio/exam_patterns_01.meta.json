@@ -1,0 +1,17 @@
+{
+  "input_hash": "a0e41abf08c58f5b3bfbf36b",
+  "text": "How this is asked. A is the brother of B, B is the son of C. A to C: walk from C, to the son, to the brother. Son. Your turn. P is the wife of Q, and Q is the father of R. How is P related to R?",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.9371
+}

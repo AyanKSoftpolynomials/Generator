@@ -1,0 +1,17 @@
+{
+  "input_hash": "4b41595a148d79dc84695493",
+  "text": "Technically, you're right. 5 satisfies the condition, with a quotient of 0. Exams mean the smallest number larger than the remainder, which is why careful questions say greater than 5. If an option list contains both 5 and 29, the question almost certainly intends 29. When the wording is careful, follow it exactly.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.8148
+}

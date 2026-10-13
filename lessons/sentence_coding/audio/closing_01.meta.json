@@ -1,0 +1,17 @@
+{
+  "input_hash": "a35dd44d8820c750e49370a9",
+  "text": "In the final topic of this lesson, letters are replaced by digits and symbols, and special conditions change the code depending on the word. It's a test of careful reading, and we'll build a routine for it next.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.1824
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "524f5230cf093178a8e11dc1",
+  "text": "To solve this confidently, we need to understand what a list is, what a node contains, and how one node leads us to the next. Let's build that understanding from the beginning.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ratan\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.2137
+}

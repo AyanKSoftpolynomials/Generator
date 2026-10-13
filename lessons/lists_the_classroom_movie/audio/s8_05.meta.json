@@ -1,0 +1,17 @@
+{
+  "input_hash": "15235e6736c22357b0b90fde",
+  "text": "Nodes need not occupy consecutive memory locations, so there is no index and no direct access. Insertion and deletion change links instead of shifting elements. And the conditions p not equal to null, and p arrow next not equal to null, stop a loop at different places.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ratan\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.555
+}

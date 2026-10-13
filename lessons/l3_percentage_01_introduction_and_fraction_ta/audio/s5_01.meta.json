@@ -1,0 +1,18 @@
+{
+  "input_hash": "7d8266d426582920335b825e",
+  "text": "So whenever I see 12.5 or 37.5 or 62.5, I think in eighths. 16.67 or 83.33, sixths. 33.33, thirds.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.7834
+}

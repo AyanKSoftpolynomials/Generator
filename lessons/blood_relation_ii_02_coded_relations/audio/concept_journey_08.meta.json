@@ -1,0 +1,17 @@
+{
+  "input_hash": "db541988eb71845761cbeae2",
+  "text": "Step six: code symbols are not tree marks. In the code, plus may mean brother of. On your tree, plus still means male. So decode into words first, then draw.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.6291
+}

@@ -1,0 +1,18 @@
+{
+  "input_hash": "126c8b4ebcb9a38dc9c9836a",
+  "text": "An opener names the topic in full and has no backward pointers: no pronouns, no this or such, no connectors, no examples, no another or also. When two sentences could open, pick the more general one. Use the opener to eliminate options.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.8648
+}

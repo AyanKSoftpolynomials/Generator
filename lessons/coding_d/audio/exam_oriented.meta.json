@@ -1,0 +1,17 @@
+{
+  "input_hash": "86d171492c922bc3757fec34",
+  "text": "Example 3: Exam-oriented. In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code? (a) UJHFS (b) QDFHS (c) SHFDQ (d) QDFGS. Let's apply the method. Step 1: Check the length. MONKEY has six letters, and so does XDJMNL. So each letter probably maps to one letter. Step 2: Compare the first letters. M becomes X. That's a jump of +11, which is unusual. When a direct comparison looks strange, check whether the word has been reversed. Step 3: Reverse the original word. MONKEY reversed is YEKNOM. Now compare YEKNOM with XDJMNL: every letter moves \u22121. The rule is: reverse the word, then move each letter one step back. It works for all six letters. Step 4: Apply it to TIGER. Reversed, TIGER is REGIT. Moving each letter back one step gives QDFHS. The answer is (b). Now look at why the other options exist. Each one is a deliberate trap. (a) uses +1 with no reversal. (c) moves \u22121 but forgets reversal. (d) uses reversal and direction correctly but miscounts I \u2212 1 as G instead of H. Time-saving tip: you often don't need to code the whole word. Once you know the first letter must be Q, options (a) and (c) are gone. Checking one more letter separates (b) from (d).",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 111.5814
+}

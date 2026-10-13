@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@theme {
+  --color-ink-950: #05080f;
+  --color-ink-900: #0a0f1c;
+  --color-ink-850: #0d1424;
+  --color-ink-800: #111a2d;
+  --color-ink-700: #1a2540;
+  --color-line: rgb(148 163 184 / 0.12);
+  --color-line-strong: rgb(148 163 184 / 0.22);
+  --animate-shimmer: shimmer 1.6s linear infinite;
+  --animate-pulse-dot: pulse-dot 2s ease-in-out infinite;
+
+  @keyframes shimmer {
+    from { background-position: 0 0; }
+    to { background-position: 40px 0; }
+  }
+  @keyframes pulse-dot {
+    0%, 100% { box-shadow: 0 0 0 0 currentColor; }
+    50% { box-shadow: 0 0 0 4px transparent; }
+  }
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  background: var(--color-ink-950);
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgb(56 189 248 / 0.10), transparent 60%),
+    radial-gradient(900px 500px at 100% 0%, rgb(139 92 246 / 0.10), transparent 60%),
+    radial-gradient(800px 600px at 50% 110%, rgb(34 211 238 / 0.05), transparent 60%),
+    var(--color-ink-950);
+  background-attachment: fixed;
+  color: #e2e8f0;
+  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Native dropdown lists are drawn by the browser, not by our dark panels: give
+   them explicit colours so option text never ends up light-on-light. */
+select {
+  color-scheme: dark;
+}
+
+select option,
+select optgroup {
+  background-color: #0d1424;
+  color: #e2e8f0;
+}
+
+select option:checked {
+  background-color: #1e3a5f;
+  color: #ffffff;
+}
+
+select option:disabled {
+  color: #64748b;
+}
+
+/* Monaco gutter bars for lines with a layout problem (CodeEditor markers). */
+.lms-mark {
+  margin-left: 4px;
+  width: 3px !important;
+  border-radius: 2px;
+}
+.lms-mark-error { background: #f43f5e; }
+.lms-mark-warning { background: #f59e0b; }
+.lms-mark-info { background: #38bdf8; }
+.lms-line-error { background: rgb(244 63 94 / 0.16); }
+.lms-line-warning { background: rgb(245 158 11 / 0.14); }
+.lms-line-info { background: rgb(56 189 248 / 0.12); }
+
+/* Glass panel used by every section. */
+.panel {
+  background: linear-gradient(180deg, rgb(255 255 255 / 0.035), rgb(255 255 255 / 0.015));
+  border: 1px solid var(--color-line);
+  border-radius: 1rem;
+  box-shadow: 0 1px 0 rgb(255 255 255 / 0.04) inset, 0 20px 40px -24px rgb(0 0 0 / 0.6);
+  backdrop-filter: blur(12px);
+}
+
+.eyebrow {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgb(148 163 184);
+}
+
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(148 163 184 / 0.25) transparent;
+}
+
+.progress-stripes {
+  background-image: linear-gradient(
+    135deg,
+    rgb(255 255 255 / 0.18) 25%, transparent 25%, transparent 50%,
+    rgb(255 255 255 / 0.18) 50%, rgb(255 255 255 / 0.18) 75%, transparent 75%, transparent
+  );
+  background-size: 40px 40px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

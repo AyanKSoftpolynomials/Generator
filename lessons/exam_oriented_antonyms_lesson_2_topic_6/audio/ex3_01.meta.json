@@ -1,0 +1,17 @@
+{
+  "input_hash": "6e00b48ab7b27809d3876f31",
+  "text": "Malevolent. The root mal means bad, and vol means wish: wishing bad. Flip mal to bene, and the opposite is benevolent.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.6588
+}

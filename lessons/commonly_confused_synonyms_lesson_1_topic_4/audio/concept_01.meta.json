@@ -1,0 +1,17 @@
+{
+  "input_hash": "105516bd5d5fa769d4238b2a",
+  "text": "Two kinds of pairs cause most errors. Look-alikes, or paronyms, differ by a letter or two, but mean completely different things. Eminent means distinguished, and imminent means about to happen. Elicit means draw out, and illicit means illegal. Complement means complete, and compliment means praise.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.8339
+}

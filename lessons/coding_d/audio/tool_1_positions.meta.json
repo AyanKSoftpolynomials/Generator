@@ -1,0 +1,17 @@
+{
+  "input_hash": "4f650a3899e12c57229c56c0",
+  "text": "Tool 1: Positions. Each letter has a position from 1 to 26. A is 1, B is 2, and so on up to Z at 26. You shouldn't count on your fingers in the exam. Use anchor letters instead. Remember E-J-O-T-Y: E is 5, J is 10, O is 15, T is 20, Y is 25. From any anchor, you are at most two steps from your target letter. For example, R is two before T, so R is 18.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 33.815
+}

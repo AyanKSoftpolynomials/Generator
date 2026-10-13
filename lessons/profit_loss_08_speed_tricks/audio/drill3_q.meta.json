@@ -1,0 +1,17 @@
+{
+  "input_hash": "ffad9574cc7e84dbca4d7798",
+  "text": "Drill three: selling price seven hundred and seventy rupees at a twelve point five percent loss. What is the cost price?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.1976
+}

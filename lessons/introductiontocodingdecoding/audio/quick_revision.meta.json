@@ -1,0 +1,17 @@
+{
+  "input_hash": "7d87191ba4f4dfef346ee3a8",
+  "text": "Let's summarise. Coding-decoding means finding a coding rule from given pairs of original and code words, then applying it consistently. Know your letter positions. Use the E-J-O-T-Y anchors: 5, 10, 15, 20, 25. Opposite letters have positions that add up to 27. The alphabet is circular: after Z comes A. The method is: compare lengths, compare letter by letter, check for reversal or opposite letters, verify on every letter, then apply and eliminate.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 45.9141
+}

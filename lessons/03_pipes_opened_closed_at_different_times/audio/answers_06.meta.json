@@ -1,0 +1,17 @@
+{
+  "input_hash": "99f09ce5bf2a570da7c2cc2c",
+  "text": "Six: twelve units, A plus three and B minus two, so plus one per cycle. A lifts the level from k to k plus three, which is twelve when k is nine. After nine cycles, eighteen minutes, the tank holds nine, and minute nineteen fills it: nineteen minutes, not twenty-four.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.1255
+}

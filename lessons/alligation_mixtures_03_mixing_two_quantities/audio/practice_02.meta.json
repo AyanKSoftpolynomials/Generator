@@ -1,0 +1,19 @@
+{
+  "input_hash": "5f091dcf66d544b2cd88e989",
+  "text": "Level two, question three: two varieties are mixed in the ratio two to three; if eight kilograms of the first is used, how much of the second? Question four: how much water must be added to forty-five litres of a twenty percent salt solution to make it fifteen percent? Question five: tea at sixty and ninety rupees is mixed to make forty-five kilograms worth eighty; how many kilograms of each?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.6053
+}

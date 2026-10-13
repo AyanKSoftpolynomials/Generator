@@ -1,0 +1,17 @@
+{
+  "input_hash": "2dad69aad3878be5627563e0",
+  "text": "Cycle length 1 belongs to 0, 1, 5, and 6. Cycle length 2 belongs to 4 and 9. Cycle length 4 belongs to 2, 3, 7, and 8. Learn this map, and unit digit questions become instant.",
+  "voice": "vedika_mp3",
+  "voice_reference_hash": "c7a306a9efc057d9",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.8141
+}

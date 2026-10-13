@@ -1,0 +1,17 @@
+{
+  "input_hash": "f80646ee8b28003f330b5a0a",
+  "text": "No arithmetic is needed. Group in fours from the right and pad on the left. The number has six bits. The right group is one one zero one, which is D. The left group is one one, padded to zero zero one one, which is three. The answer is three D, option B. If you grouped from the left you would get one one one one and zero one, which gives a wrong answer.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 26.0387
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "1503f885a7566380534343ae",
+  "text": "Level two, question three: find compound interest minus simple interest on twenty thousand rupees for three years at ten percent. Question four: the compound interest on a sum for two years at five percent is four hundred and ten rupees; find the simple interest. Question five: compound interest minus simple interest on four thousand rupees for two years is one hundred and sixty rupees; find the rate.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 25.5065
+}

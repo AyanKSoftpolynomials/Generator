@@ -1,0 +1,17 @@
+{
+  "input_hash": "45ee7c4d0df2c2aa03a586ec",
+  "text": "Reverse it: u is D plus U over two, and v is D minus U over two. The still-water speed is the average, and the stream speed is half the difference.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.0121
+}

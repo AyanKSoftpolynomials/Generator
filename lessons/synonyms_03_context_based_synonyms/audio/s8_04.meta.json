@@ -1,0 +1,17 @@
+{
+  "input_hash": "339df2c4840861567c93f1df",
+  "text": "They're all real meanings of execute. Put to death, sign a legal document, perform a dance step. They're correct in some other sentence, just not this one.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.2763
+}

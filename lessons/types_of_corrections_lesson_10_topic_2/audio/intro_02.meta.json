@@ -1,0 +1,17 @@
+{
+  "input_hash": "c0058b3bfcbe6fc8a3e3eb7e",
+  "text": "This video is types of corrections. By the end, you'll recognise the main types of correction: grammar, structure, word choice and redundancy; and fix dangling modifiers and faulty parallelism.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.146
+}

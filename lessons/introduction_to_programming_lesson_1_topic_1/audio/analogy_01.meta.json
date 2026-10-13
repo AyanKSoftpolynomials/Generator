@@ -1,0 +1,17 @@
+{
+  "input_hash": "cedb13d4d4bf8e2a9bd0b4af",
+  "text": "A counterfeit note looks right at a glance. Under a UV lamp, the missing security thread shows.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.1737
+}

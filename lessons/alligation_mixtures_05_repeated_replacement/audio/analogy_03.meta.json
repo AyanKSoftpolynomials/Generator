@@ -1,0 +1,19 @@
+{
+  "input_hash": "ac581c5bd2d800ee8be1060f",
+  "text": "Where the analogy stops: a car's value just disappears, but here the lost milk is replaced by water. So the can stays full, and the water is exactly what the milk has lost.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.2114
+}

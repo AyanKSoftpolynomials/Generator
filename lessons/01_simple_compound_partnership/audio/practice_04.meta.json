@@ -1,0 +1,17 @@
+{
+  "input_hash": "c70477cde91bcef643c946b7",
+  "text": "Level three, question six: A and B invest in the ratio three to two, and their profits are in the ratio five to four; A's money was in the business for ten months; for how long was B's? Question seven: A invests thirty thousand rupees for twelve months, and B invests forty-five thousand; of a profit of twenty-one thousand, B receives seven thousand; for how many months was B's money in the business? Question eight: A, B and C invest one lakh twenty thousand, one lakh fifty thousand and one lakh eighty thousand rupees for ten, eight and five months, and the profit is one lakh ten thousand; find C's share.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 42.8147
+}

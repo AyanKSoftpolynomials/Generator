@@ -1,0 +1,18 @@
+{
+  "input_hash": "27ca2913d12a74fad3a78b03",
+  "text": "Subtract them from each other. The r cancels. 4665 minus 1305 is 3360. 6905 minus 4665 is 2240. The number has to divide both differences.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.4437
+}

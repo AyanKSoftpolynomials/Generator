@@ -1,0 +1,17 @@
+{
+  "input_hash": "e4abdff1bcf5f7194d546660",
+  "text": "Neither rider's path matters on its own. Give each end point coordinates, zero, six and eight, zero, and the gap is one Pythagoras step: ten kilometres.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.1741
+}

@@ -1,0 +1,18 @@
+{
+  "input_hash": "99c84b4914d3d00a52adf27b",
+  "text": "Here is a typical exam question. Which was the first mechanical calculator that could perform all four basic arithmetic operations?",
+  "voice": "teacher_b",
+  "voice_reference_hash": "43b00d98b72c9000",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.2494
+}

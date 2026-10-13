@@ -1,0 +1,17 @@
+{
+  "input_hash": "bac4757c6e53c68eae5cafdb",
+  "text": "Level two, question four: a person faces north and turns right, right, then left. Question five: a person faces east and turns left three times. Question six: a person faces north-east and turns ninety degrees clockwise.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.011
+}

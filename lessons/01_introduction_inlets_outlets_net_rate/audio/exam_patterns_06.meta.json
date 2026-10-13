@@ -1,0 +1,17 @@
+{
+  "input_hash": "27468a899f91952e78c95054",
+  "text": "Net negative: a full tank, fill in twenty hours, empty in fifteen. Sixty units, three minus four is minus one: it empties in sixty hours.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.8959
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "5f311b8d4fcfb6ca1613e868",
+  "text": "Last time we matched attributes: connotation, degree, register. Today the problem is bigger. Here the core meaning itself changes. So which synonym of execute is correct?",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.1512
+}

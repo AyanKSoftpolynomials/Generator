@@ -1,0 +1,17 @@
+{
+  "input_hash": "6a717e25f62861b1d0b7bda2",
+  "text": "We now have two tools, the shift row for letter codes and the rule tester for number codes. In the next topic, we'll combine them into a single, disciplined process for identifying any coding pattern. We'll also practise it on codes that mix more than one idea.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.3098
+}

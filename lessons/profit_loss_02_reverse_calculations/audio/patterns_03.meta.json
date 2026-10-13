@@ -1,0 +1,17 @@
+{
+  "input_hash": "0f5981dd7a90a4fcafe599d3",
+  "text": "Loss to gain: a ten percent loss at two thousand three hundred and forty means a cost of two thousand six hundred, and times one point one gives two thousand eight hundred and sixty.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.7235
+}

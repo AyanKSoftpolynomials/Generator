@@ -1,0 +1,17 @@
+{
+  "input_hash": "b8b9bcb73eae2e6a6cd75ca5",
+  "text": "Let us start with a binary number, one zero one one zero one one one zero. How would we write it in octal?",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.5054
+}

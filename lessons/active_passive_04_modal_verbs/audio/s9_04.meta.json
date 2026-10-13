@@ -1,0 +1,17 @@
+{
+  "input_hash": "647d41c18147bb871967261a",
+  "text": "Should have tested becomes should have been tested, keeping the past meaning. The answer is option B. Option A changes the time frame to future advice. Option C is missing been. Option D, should had, is ungrammatical.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.8879
+}

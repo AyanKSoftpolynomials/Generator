@@ -1,0 +1,19 @@
+{
+  "input_hash": "cdcb43e7602f21f7b5f730c8",
+  "text": "Some codes go one step further and multiply or adjust the sum. For example, the code might be twice the sum, or the sum plus a constant.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.0942
+}

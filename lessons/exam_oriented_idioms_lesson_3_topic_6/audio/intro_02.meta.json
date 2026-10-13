@@ -1,0 +1,17 @@
+{
+  "input_hash": "760d6a71f81bdeeaa18059fa",
+  "text": "These are the exam-oriented idioms. By the end of this video, you'll learn the idioms that recur most in exam papers, and use origin stories to remember the less transparent ones.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.6217
+}

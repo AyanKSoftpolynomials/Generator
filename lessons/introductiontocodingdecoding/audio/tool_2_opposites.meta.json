@@ -1,0 +1,17 @@
+{
+  "input_hash": "46dc54d7b046f813cf6a12af",
+  "text": "Tool 2: Opposite letters. If you fold the alphabet in half, A pairs with Z, B with Y, C with X, and so on down to M with N. Every opposite pair has positions that add up to 27. So the opposite of G, position 7, is at position 20, which is T.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 20.5275
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ritu",
+  "name": "ritu",
+  "language": "en",
+  "samples": [
+    "sample_01.wav"
+  ],
+  "description": "",
+  "speaker": "ritu",
+  "gender": "female",
+  "category": "other",
+  "source": "upload",
+  "original_file": "ritu.mp3.mp3",
+  "consent_confirmed": true,
+  "created": "2026-09-28 12:12:28"
+}

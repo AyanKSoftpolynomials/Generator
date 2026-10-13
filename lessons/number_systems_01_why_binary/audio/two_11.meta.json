@@ -1,0 +1,17 @@
+{
+  "input_hash": "fc05852834c5be81d1eefbc6",
+  "text": "If we asked a circuit to hold ten different voltage levels, small disturbances would blur one level into the next, and the computer would make mistakes. With two states, there is almost no confusion.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.251
+}

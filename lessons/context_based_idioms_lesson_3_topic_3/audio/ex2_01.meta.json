@@ -1,0 +1,17 @@
+{
+  "input_hash": "26bc950c0ceb6bb4ad0508c1",
+  "text": "Stop, blank; tell me whether the project is delayed. What's happening? Someone is avoiding the answer. The tone: impatient, a complaint. So the plain meaning is: avoiding the point. The idiom: beating about the bush.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.4158
+}

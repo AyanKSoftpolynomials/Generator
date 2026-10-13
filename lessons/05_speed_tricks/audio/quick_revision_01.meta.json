@@ -1,0 +1,17 @@
+{
+  "input_hash": "21ad671b3c9e0ac061d6bd36",
+  "text": "Plus for two inlets, minus for an inlet and an outlet, one formula for the missing pipe or leak, the three-pipe formula with the outlet's terms signed, and one line for closed before full.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.0007
+}

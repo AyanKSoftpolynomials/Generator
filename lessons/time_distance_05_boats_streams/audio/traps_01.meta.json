@@ -1,0 +1,17 @@
+{
+  "input_hash": "9d111d08d73cf236cc8bf4f3",
+  "text": "Trap one: the stream speed not halved. D is twelve kilometres per hour and U is eight: what is the stream speed?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.169
+}

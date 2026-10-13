@@ -1,0 +1,17 @@
+{
+  "input_hash": "69f20d31c89863e63986bd9b",
+  "text": "Before we finish, let's connect everything back to our exam preparation. When you see a list question in C-CAT practice, don't guess from the first value you notice in the code.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ratan\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.5853
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "fa4ff6bb92355bd7474c033b",
+  "text": "To recap. A synonym has the same or nearly the same meaning in context. Anchor on the core meaning, in your own words, first. The answer must match the part of speech, and ideally the tone and degree too. And watch for the traps: antonyms, sound-alikes, and words that simply appear nearby.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.0147
+}

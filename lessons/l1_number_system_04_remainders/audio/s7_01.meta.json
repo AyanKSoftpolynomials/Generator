@@ -1,0 +1,17 @@
+{
+  "input_hash": "d1301679faa5e24a90c44e11",
+  "text": "Remainder of 3 to the power 50 divided by 8. 3 squared is 9, remainder 1. So the cycle length is 2. 50 is even, so 3 to the power 50 is 3 squared, to the power 25, remainder 1.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.7857
+}

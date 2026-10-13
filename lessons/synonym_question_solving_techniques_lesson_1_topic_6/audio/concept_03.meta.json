@@ -1,0 +1,17 @@
+{
+  "input_hash": "775c1077651857ac6d60b6c4",
+  "text": "Run them in that order. P and M are fast, and remove most options. D and T are the tie-breakers for the last two. Before any of this, predict your own answer, so the options can't pull you.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.4486
+}

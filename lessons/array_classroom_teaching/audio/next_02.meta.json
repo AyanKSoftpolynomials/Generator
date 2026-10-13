@@ -1,0 +1,17 @@
+{
+  "input_hash": "e3cb3a6e49e6c625b936d6f6",
+  "text": "We know how an array looks to us. But where are all these values actually stored inside the computer?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.2675
+}

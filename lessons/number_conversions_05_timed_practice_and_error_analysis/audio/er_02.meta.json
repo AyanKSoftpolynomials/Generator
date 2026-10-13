@@ -1,0 +1,17 @@
+{
+  "input_hash": "bebdeadbd9150ea16ec55f0c",
+  "text": "Each one needs a different cure. A concept error needs you to go back to the video and redo the method. A calculation error needs a slower, tidier layout, and a check. A reading error needs you to underline the bases and the direction of the conversion before you start. And a time-pressure error needs the habit of one quick check.",
+  "voice": "vijay",
+  "voice_reference_hash": "43ffb55e399e2b91",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"vijay\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 21.2939
+}

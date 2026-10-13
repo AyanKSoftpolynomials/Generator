@@ -1,0 +1,19 @@
+{
+  "input_hash": "25c584fffb8782f3fd03f45f",
+  "text": "Level one, question one: in what ratio must twenty and forty rupee varieties be mixed to make thirty? Question two: in what ratio must ten percent and forty percent solutions be mixed to make twenty-five percent?",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.7521
+}

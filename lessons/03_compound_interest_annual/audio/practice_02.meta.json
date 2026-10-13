@@ -1,0 +1,17 @@
+{
+  "input_hash": "8f9bce754f69effd1e0adfa9",
+  "text": "Level two, question four: two cows are each sold for nineteen thousand eight hundred rupees, one at a ten percent gain and the other at a ten percent loss; find the total loss in rupees. Question five: two articles each cost five hundred rupees; one is sold at a twenty percent profit and the other at a twenty percent loss; find the overall result. Question six: two articles are sold at nine hundred and ninety rupees each, one at a ten percent profit and one at a ten percent loss; find the net loss in rupees.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 33.4804
+}

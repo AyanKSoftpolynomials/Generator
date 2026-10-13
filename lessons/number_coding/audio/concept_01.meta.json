@@ -1,0 +1,17 @@
+{
+  "input_hash": "e1ec168e8d753c74ad3b9e61",
+  "text": "In number coding, letters are replaced by numbers. Most of the time, the numbers come from letter positions. Either each letter becomes its own number, or the whole word becomes a single value calculated from those positions.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.8145
+}

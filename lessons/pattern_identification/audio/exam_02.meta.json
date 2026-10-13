@@ -1,0 +1,17 @@
+{
+  "input_hash": "2cc92bc659686150af919755",
+  "text": "Two practical tips. First, when options are given, you can sometimes eliminate choices by checking just one letter of the new code, for example the last letter. But only do this after you're sure of the rule.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.9728
+}

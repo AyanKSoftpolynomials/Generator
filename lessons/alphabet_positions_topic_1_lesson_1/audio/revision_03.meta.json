@@ -1,0 +1,17 @@
+{
+  "input_hash": "a0b6cf63387cff3daeb2a56d",
+  "text": "The EJOTY anchors, at five, ten, fifteen, twenty and twenty-five, let you find any forward position in one small step.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.1841
+}

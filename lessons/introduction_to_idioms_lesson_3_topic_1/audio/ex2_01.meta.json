@@ -1,0 +1,17 @@
+{
+  "input_hash": "5b8b4d854d96fa48d7281ed2",
+  "text": "Hit the nail on the head. Do carpentry, hurt someone, describe something exactly right, or work hard? The picture: one clean strike, right on target. The idea: exactly right. Carpentry is the literal reading. Hurting someone and working hard miss the idea. The answer is: describe something exactly right.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 23.1041
+}

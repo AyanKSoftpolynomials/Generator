@@ -1,0 +1,16 @@
+{
+  "id": "aditya",
+  "name": "aditya",
+  "language": "en",
+  "samples": [
+    "sample_01.wav"
+  ],
+  "description": "",
+  "speaker": "aditya",
+  "gender": "male",
+  "category": "teacher",
+  "source": "upload",
+  "original_file": "aditya.mp3.mp3",
+  "consent_confirmed": true,
+  "created": "2026-09-28 12:11:55"
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "f618e630a907c5482d1a16f3",
+  "text": "Level two, question three: A, B and C invest twenty thousand, thirty thousand and fifty thousand rupees for twelve, eight and six months, and the profit is thirty-nine thousand; find each share. Question four: A and B invest forty thousand and fifty thousand rupees for the same period, and the business makes a loss of six thousand three hundred; how much does each partner lose? Question five: A and B invest for the same period, and their profits are in the ratio five to three; A invested forty-five thousand rupees; how much did B invest?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 34.0506
+}

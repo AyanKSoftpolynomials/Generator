@@ -1,0 +1,17 @@
+{
+  "input_hash": "e1afb791eec0c74574ed81ba",
+  "text": "Trap three: the discount taken on cost price. Cost price one thousand, marked price fourteen hundred, twenty-five percent discount; find the selling price.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.8893
+}

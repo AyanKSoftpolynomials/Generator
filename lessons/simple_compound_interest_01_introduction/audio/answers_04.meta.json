@@ -1,0 +1,17 @@
+{
+  "input_hash": "b64c39bc89360b6e58348780",
+  "text": "Four: interest is seven thousand five hundred minus six thousand, which is one thousand five hundred: one fourth of P, or twenty-five percent.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.5978
+}

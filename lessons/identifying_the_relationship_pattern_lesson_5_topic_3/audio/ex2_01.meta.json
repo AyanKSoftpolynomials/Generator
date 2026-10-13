@@ -1,0 +1,17 @@
+{
+  "input_hash": "675dc301f8cf52c65cc2a902",
+  "text": "Petal is to flower, as key is to what? Lock, keyboard, door, or music? First bridge: a petal is part of a flower. Refine: one of many identical parts of. So: a keyboard. A lock and a door are used with a key; they aren't made of keys. And music uses another meaning of key.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.7932
+}

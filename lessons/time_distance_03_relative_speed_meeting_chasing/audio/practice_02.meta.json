@@ -1,0 +1,17 @@
+{
+  "input_hash": "f530de9b5f76d4c117125204",
+  "text": "Level two, question three: a cyclist riding at fifteen kilometres per hour is six kilometres ahead of another riding at eighteen in the same direction; how long does the second take to catch up? Question four: towns P and Q are three hundred and eighty kilometres apart; a car leaves P at eight in the morning for Q at fifty kilometres per hour, and another leaves Q at nine for P at sixty; when and where do they meet? Question five: a thief runs at nine kilometres per hour; a policeman notices ten minutes later and chases at twelve; how far does the thief run before he is caught?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 40.6961
+}

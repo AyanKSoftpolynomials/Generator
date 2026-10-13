@@ -1,0 +1,17 @@
+{
+  "input_hash": "c30a42190842192cb40df4c4",
+  "text": "Collocation is about which words naturally go together. Heavy and strong are close in meaning, but English says heavy traffic, strong coffee and heavy rain. Change the partner and the phrase sounds wrong, even though the meaning is close.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.2195
+}

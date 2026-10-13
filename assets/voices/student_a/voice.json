@@ -1,0 +1,12 @@
+{
+  "id": "student_a",
+  "name": "Student A",
+  "language": "en",
+  "samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "description": "Student voice (synthetic test voice)",
+  "synthetic": true,
+  "source_speaker": "Daisy Studious"
+}

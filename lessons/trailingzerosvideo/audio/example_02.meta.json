@@ -1,0 +1,18 @@
+{
+  "input_hash": "c106802693de570d5daad33a",
+  "text": "She counted multiples of 5 up to 50, giving 10, then multiples of 25, giving 2 more.",
+  "voice": "teacher_b",
+  "voice_reference_hash": "43b00d98b72c9000",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.2873
+}

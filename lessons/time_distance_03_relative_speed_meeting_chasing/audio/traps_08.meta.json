@@ -1,0 +1,17 @@
+{
+  "input_hash": "b11cd8907a102818a0a0f2bd",
+  "text": "The wrong instinct takes the root of nine over four: three to two. The correct answer is the root of four over nine: two to three.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.3678
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "e74de8fecb4e62fe12c7aa4a",
+  "text": "And a plus three, minus one marking scheme rewards a method that turns one elimination into a positive-value guess. A blind guess is worth nothing on average. Remove one option, and the guess is worth a third of a mark.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.6791
+}

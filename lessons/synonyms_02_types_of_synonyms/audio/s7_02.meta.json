@@ -1,0 +1,17 @@
+{
+  "input_hash": "f7f3b819acbb4d109ff81375",
+  "text": "That's connotation and register, used on the job. Your interview answers, your emails to recruiters, your bug reports. People judge you by how precisely you choose between near synonyms. The exam is checking the same skill in thirty seconds.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.2373
+}

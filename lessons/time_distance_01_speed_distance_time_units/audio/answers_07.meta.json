@@ -1,0 +1,17 @@
+{
+  "input_hash": "9332ed6550b3951838ec8485",
+  "text": "Seven: the distance is three hundred kilometres, and three hundred divided by five is sixty kilometres per hour.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.9394
+}

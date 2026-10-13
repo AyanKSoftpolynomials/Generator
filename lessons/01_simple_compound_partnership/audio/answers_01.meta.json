@@ -1,0 +1,17 @@
+{
+  "input_hash": "6db35b6a1aa26a20b2fce9ce",
+  "text": "One: twenty-five to thirty-five is five to seven, and one part is eighteen thousand divided by twelve, fifteen hundred: A gets seven thousand five hundred and B ten thousand five hundred.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.6668
+}

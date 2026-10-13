@@ -1,0 +1,17 @@
+{
+  "input_hash": "1e644d4621efa3c7bb938b05",
+  "text": "One trap: mixing the simple and compound scaling rules. A sum doubles in five years. When does it become four times?",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.8071
+}

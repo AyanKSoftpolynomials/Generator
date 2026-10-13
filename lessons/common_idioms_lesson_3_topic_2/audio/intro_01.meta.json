@@ -1,0 +1,17 @@
+{
+  "input_hash": "dbf7402679da57c2cbcc0027",
+  "text": "In video one, you learned the picture-to-idea method. Today you build the store of idioms to apply it to, organised by situation, so you can recall them under pressure.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.8084
+}

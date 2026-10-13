@@ -1,0 +1,11 @@
+{
+  "id": "narrator",
+  "name": "Narrator",
+  "language": "en",
+  "samples": [
+    "sample_01.wav"
+  ],
+  "description": "Neutral narrator (synthetic test voice)",
+  "synthetic": true,
+  "source_speaker": "Craig Gutsy"
+}

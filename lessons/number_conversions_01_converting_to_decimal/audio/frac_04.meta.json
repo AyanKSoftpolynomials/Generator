@@ -1,0 +1,17 @@
+{
+  "input_hash": "9b5802f4ed289f9085f5ac77",
+  "text": "Hexadecimal works the same way. Take one A point eight in hexadecimal. The integer part is one times sixteen plus A, which is twenty-six. The fraction eight is worth eight sixteenths, which is zero point five. So the answer is twenty-six point five.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.9613
+}

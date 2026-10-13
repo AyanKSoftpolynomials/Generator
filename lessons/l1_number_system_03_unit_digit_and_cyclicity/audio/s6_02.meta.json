@@ -1,0 +1,17 @@
+{
+  "input_hash": "647f588cb4ad0f01471a1bf6",
+  "text": "Right. 2 to the power 4 is 16, ending in 6. 2 to the power 100 is 2 to the power 4 multiplied by itself 25 times, so it also ends in 6.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.9762
+}

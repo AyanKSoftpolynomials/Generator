@@ -1,0 +1,18 @@
+{
+  "input_hash": "f5ee5c51ed40446cef92ba80",
+  "text": "Already factorised. Common primes are 2 and 3. Lowest power of 2 is 2 cubed, and lowest of 3 is 3 to the first. 8 times 3 is 24. 5 and 7 aren't in all three, so they're out.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.2859
+}

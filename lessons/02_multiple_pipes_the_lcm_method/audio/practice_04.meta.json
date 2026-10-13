@@ -1,0 +1,17 @@
+{
+  "input_hash": "b30372c575e2175374b3ed36",
+  "text": "Level three, question six: pipes A and B together fill a tank in ten hours, B and C in eighteen hours, and C and A in fifteen hours; how long would each pipe take alone? Question seven: pipe A fills a tank in eight minutes and pipe B in twelve minutes; with a third pipe C also open, the tank fills in six minutes; describe pipe C. Question eight: pipe A fills a tank in six hours and pipe B in nine hours, and together they deliver fifty litres a minute; find the capacity of the tank.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 38.6693
+}

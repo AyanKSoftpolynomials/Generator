@@ -1,0 +1,20 @@
+{
+  "input_hash": "c0f9a06d0bb231cb33f02dd2",
+  "text": "A class has data members, member functions and access rules.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "dhee_indic_f5:dheeyantra/dhee-indic-f5:23d5cd75f5b52b54:nfe16:speed1.0:float32:accent-indian_english",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true,
+    "engine": "dhee_indic_f5",
+    "model": "dheeyantra/dhee-indic-f5",
+    "accent": "indian_english"
+  },
+  "duration": 4.568
+}

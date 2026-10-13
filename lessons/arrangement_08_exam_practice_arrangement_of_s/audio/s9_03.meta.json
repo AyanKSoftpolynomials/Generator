@@ -1,0 +1,17 @@
+{
+  "input_hash": "03adcfabc56b7c634973a9d4",
+  "text": "Question two: option A, P, R, Q. P explains the problem. R introduces two F A. Q's this second factor refers to R. Then S six's require it lands on two F A.",
+  "voice": "kavya",
+  "voice_reference_hash": "c3a1d55a5500b947",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kavya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.9174
+}

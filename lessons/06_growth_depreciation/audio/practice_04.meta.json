@@ -1,0 +1,17 @@
+{
+  "input_hash": "f57ae7a4e52d687e769c3af1",
+  "text": "Level three, question six: a product's users grew twenty percent in year one and fell ten percent in year two, ending at fifty-four thousand; find the starting number. Question seven: equipment worth one lakh rupees loses ten percent of its value each year; after how many full years is it first worth less than seventy thousand? Question eight: a population of fifty thousand grows four percent per year; find it after two years.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 30.4182
+}

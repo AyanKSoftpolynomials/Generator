@@ -1,0 +1,19 @@
+{
+  "input_hash": "bca7752a80bc799c4e1981ee",
+  "text": "So here's what we take away today. Integers are whole numbers plus their negative mirror images \u2014 stretching endlessly in both directions from zero, with no fractions involved.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.4983
+}

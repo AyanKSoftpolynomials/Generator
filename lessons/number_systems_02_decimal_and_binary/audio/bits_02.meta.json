@@ -1,0 +1,17 @@
+{
+  "input_hash": "83e138b365b35b6bf9022c75",
+  "text": "Every time we add a bit, the number of patterns doubles. So n bits give two to the power n patterns. Four bits give sixteen. Eight bits, a byte, give two hundred and fifty-six.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5:checked-v1",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.1695
+}

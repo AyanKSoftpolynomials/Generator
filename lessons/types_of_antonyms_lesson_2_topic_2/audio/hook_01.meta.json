@@ -1,0 +1,17 @@
+{
+  "input_hash": "983d2342468bb372b6075464",
+  "text": "Your CI dashboard shows every test as pass or fail. Next to it, a weather widget says warm. Your colleague says both are just opposites.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.7113
+}

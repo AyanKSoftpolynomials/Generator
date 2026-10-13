@@ -1,0 +1,17 @@
+{
+  "input_hash": "7be5322f47bbe64893ee41c6",
+  "text": "Step one: at noon the minute hand points at twelve, so the twelve mark faces north-east: a rotation of plus forty-five degrees.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.4228
+}

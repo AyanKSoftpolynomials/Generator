@@ -1,0 +1,17 @@
+{
+  "input_hash": "41f4b6874246fe7a5d0f482a",
+  "text": "A loss of one eighth, so seven to eight: seven hundred and seventy, divided by seven, times eight, is eight hundred and eighty rupees.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 7.8721
+}

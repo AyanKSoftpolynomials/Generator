@@ -1,0 +1,17 @@
+{
+  "input_hash": "a2bfa8fcf5ce87df1405b92d",
+  "text": "When you meet a word you don't know, you still have roots. A large share of exam words are built from Latin or Greek parts. If you know the part, you can often eliminate two options, even when the full word is new. Benevolent has bene, meaning good, so it can't mean cruel.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.919
+}

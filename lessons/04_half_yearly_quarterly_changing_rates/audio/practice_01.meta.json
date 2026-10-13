@@ -1,0 +1,17 @@
+{
+  "input_hash": "b5b98ca4b1e2856c14a5a2ad",
+  "text": "Level one, question one: find the amount on five thousand rupees at eight percent per year, compounded quarterly, for six months. Question two: find the compound interest on five thousand rupees at twelve percent per year for one year, compounded half-yearly.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.9187
+}

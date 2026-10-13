@@ -1,0 +1,17 @@
+{
+  "input_hash": "b2d63f3fc0000ec8ff1a13f0",
+  "text": "The formula isn't just an exam shortcut. It's an algorithmic improvement: from checking every number up to N, to factorising up to the square root of N and multiplying. The same kind of improvement you'd look for in a coding round.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.1517
+}

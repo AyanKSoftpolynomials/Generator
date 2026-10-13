@@ -1,0 +1,18 @@
+{
+  "input_hash": "ebcac8f3a5f94f0363fbb03e",
+  "text": "New is original times 1.2. Original is 72,000 divided by 1.2, which is 60,000. Or 72,000 times 5 over 6. The answer is option B. Option A takes 20 percent of the new price, which is the wrong base.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 17.5068
+}

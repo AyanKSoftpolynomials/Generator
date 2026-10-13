@@ -1,0 +1,13 @@
+{
+  "id": "teacher_a",
+  "name": "Teacher A",
+  "language": "en",
+  "samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "description": "Primary mathematics teacher (synthetic test voice)",
+  "synthetic": true,
+  "source_speaker": "Ana Florence"
+}

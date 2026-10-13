@@ -1,0 +1,17 @@
+{
+  "input_hash": "487967a346d612d3c9752c13",
+  "text": "The rule: doubling means the interest equals P, and tripling means the interest equals two P. Simple interest is linear, so twice the interest takes twice the time.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.2963
+}

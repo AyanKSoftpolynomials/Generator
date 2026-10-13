@@ -1,0 +1,17 @@
+{
+  "input_hash": "c8813f37c50c4b594519893c",
+  "text": "Parent-child relationships refer to the direct, one-generation link between a father or mother and their son or daughter, the very first and closest branch on any family tree.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.1406
+}

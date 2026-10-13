@@ -1,0 +1,17 @@
+{
+  "input_hash": "5d951e49e4c540cc75e1b464",
+  "text": "Context is everything in the sentence that isn't a grammar word or a connector: who is involved, what happened, the setting and the tone. It tells you whether the blank is positive or negative, and how strong it should be.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.761
+}

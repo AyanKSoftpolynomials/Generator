@@ -1,0 +1,17 @@
+{
+  "input_hash": "a2288021dd4d78fa98b79fa5",
+  "text": "Completely improved and infinitely improved sound like marketing. Never improved contradicts improved. Somewhat fits a normal update.",
+  "voice": "prasad",
+  "voice_reference_hash": "fe5cb7530a415c1d",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"kabir\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.7682
+}

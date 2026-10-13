@@ -1,0 +1,17 @@
+{
+  "input_hash": "37dbdccf9514ad6f2a19e5ec",
+  "text": "The start for a dead heat: two hundred metres, with A at five metres per second and B at four. B runs two hundred times four fifths, one hundred and sixty: a forty metre start.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.5801
+}

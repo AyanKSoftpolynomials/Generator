@@ -1,0 +1,17 @@
+{
+  "input_hash": "f5c2de5f4dac179a0e34ea45",
+  "text": "To revise: start with the difference row. Constant differences give a simple series. If the differences rise steadily, the second differences will be constant. If the differences multiply, they form a geometric progression. Always check missing terms on both sides. And when numbers grow very quickly, test ratios instead.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.1664
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "c4ddcc736c799b684a62c374",
+  "text": "Right. The rules are fast, they work on a number of any length, and they need no calculator. But for 7 or 13, plain division is often quicker, and a composite divisor needs co-prime factors. Use the rules to test and to reject. Divide when you need the quotient.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 19.7964
+}

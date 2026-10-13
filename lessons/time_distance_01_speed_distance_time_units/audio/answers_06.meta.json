@@ -1,0 +1,17 @@
+{
+  "input_hash": "08c0a37114e779d78ca56a43",
+  "text": "Six: the times are three to five; eight parts are one hundred and sixty minutes, so one part is twenty minutes and the walk there takes sixty minutes. The distance is five times one: five kilometres.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.6818
+}

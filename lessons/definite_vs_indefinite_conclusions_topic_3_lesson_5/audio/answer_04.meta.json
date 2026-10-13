@@ -1,0 +1,17 @@
+{
+  "input_hash": "9c11cb781b88cbdd12bd98ae",
+  "text": "For question two: from U to W, the path is equals, then less-than, so U is less than W. That means W is greater than U, so conclusion one follows. And T is less than or equal to U means U is greater than or equal to T, so conclusion two follows.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 22.2093
+}

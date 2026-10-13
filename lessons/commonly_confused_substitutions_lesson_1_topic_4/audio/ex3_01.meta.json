@@ -1,0 +1,17 @@
+{
+  "input_hash": "1c7f399e81c4b0cb94af0e8d",
+  "text": "One who plays a sport for pleasure, not money. The options would be amateur and novice. The separating idea is level: unpaid, not beginner. So: amateur, not novice.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 13.0407
+}

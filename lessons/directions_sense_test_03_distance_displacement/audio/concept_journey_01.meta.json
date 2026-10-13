@@ -1,0 +1,17 @@
+{
+  "input_hash": "deceec1bf5b1cd2a82b1cd4a",
+  "text": "Step one: draw with north at the top. Track the facing after every turn, as in the last video.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 6.4108
+}

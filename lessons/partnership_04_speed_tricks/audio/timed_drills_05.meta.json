@@ -1,0 +1,17 @@
+{
+  "input_hash": "f94b3612a517d069029a8d90",
+  "text": "Drill three, six seconds: profits are in the ratio seven to five, and A gets six thousand rupees more than B. What is the total profit?",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.0899
+}

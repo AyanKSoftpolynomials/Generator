@@ -1,0 +1,19 @@
+{
+  "input_hash": "578d456410a37b0aef3918ab",
+  "text": "Backwards, take the root of the final fraction. If two rounds leave nine sixteenths, one round keeps three quarters, so a quarter is drawn each time.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.9125
+}

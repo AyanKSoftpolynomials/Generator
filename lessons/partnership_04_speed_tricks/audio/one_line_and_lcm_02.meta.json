@@ -1,0 +1,17 @@
+{
+  "input_hash": "d44ab903465a5f1a318431ce",
+  "text": "The hook: twelve times twelve, sixteen times nine and eighteen times eight are all one hundred and forty-four: one to one to one.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 5.0093
+}

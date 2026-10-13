@@ -1,0 +1,17 @@
+{
+  "input_hash": "d1ec5c9874e6f5607615a67b",
+  "text": "Two: the managing share is two thousand five hundred, and the remainder, twenty-two thousand five hundred, is shared three to two: A gets sixteen thousand in all and B nine thousand.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 10.6732
+}

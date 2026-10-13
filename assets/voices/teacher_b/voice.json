@@ -1,0 +1,12 @@
+{
+  "id": "teacher_b",
+  "name": "Teacher B",
+  "language": "en",
+  "samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "description": "Second teacher (synthetic test voice)",
+  "synthetic": true,
+  "source_speaker": "Viktor Eka"
+}

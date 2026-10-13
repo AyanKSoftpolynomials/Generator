@@ -1,0 +1,19 @@
+{
+  "input_hash": "b67922bf75cd25ad198b57cc",
+  "text": "Where the analogy stops: a recipe is given to you, but in a mixture question you must find the ratio first. So there are two steps: the cross, then the scaling.",
+  "voice": "teacher_a",
+  "voice_reference_hash": "4e34ffec9d875d0d",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav",
+    "sample_03.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 8.213
+}

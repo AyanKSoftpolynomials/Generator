@@ -1,0 +1,17 @@
+{
+  "input_hash": "9dba1e20e9178d24f7cbf4a2",
+  "text": "Real schedules often have an offset: a job that runs every 6 minutes, starting 5 minutes past the hour. Finding when several offset schedules align is exactly pattern 1. L C M plus the offset.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 14.893
+}

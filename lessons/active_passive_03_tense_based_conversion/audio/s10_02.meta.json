@@ -1,0 +1,18 @@
+{
+  "input_hash": "1fbc7ff978667b6602c474ed",
+  "text": "Keep the auxiliaries. Insert be in the form the main verb had. Make the main verb V three. Make be agree with the new subject. Perfect continuous tenses usually have no standard passive.",
+  "voice": "student_a",
+  "voice_reference_hash": "a316910ee418d124",
+  "voice_samples": [
+    "sample_01.wav",
+    "sample_02.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"rahul\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 11.0948
+}

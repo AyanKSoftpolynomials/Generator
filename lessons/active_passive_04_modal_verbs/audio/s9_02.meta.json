@@ -1,0 +1,17 @@
+{
+  "input_hash": "1b9781004c4ed0b178ae388a",
+  "text": "Modal must, then be in base form, then V three, updated. So must be updated. The answer is option C. Option A has update, which isn't V three. Option B is missing be. Option D has been, which can't follow a modal directly.",
+  "voice": "ritu",
+  "voice_reference_hash": "35d70d7a20fd0b65",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"ritu\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.9656
+}

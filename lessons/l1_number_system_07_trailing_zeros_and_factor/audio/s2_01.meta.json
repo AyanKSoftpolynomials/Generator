@@ -1,0 +1,17 @@
+{
+  "input_hash": "3197151ac8dbeee95fc3c1c5",
+  "text": "A factorial, written n factorial, is the product 1 times 2 times 3 up to n. Exam questions ask how many zeros it ends with, what power of a prime divides it, and a few properties of factorials. All of them use the same counting method.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 18.479
+}

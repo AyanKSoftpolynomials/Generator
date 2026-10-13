@@ -1,0 +1,17 @@
+{
+  "input_hash": "bdc012669bfee58b38a1fc92",
+  "text": "But a bridge only takes you somewhere if both statements point in the same direction across it. If A is above B, and B is above C, then A is above C. If A and C are both above B, the bridge tells you nothing about A compared with C.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.3581
+}

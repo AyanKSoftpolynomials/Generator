@@ -1,0 +1,20 @@
+[project]
+name = "lms-video-generator"
+version = "0.2.0"
+description = "Narrated, multi-voice Manim videos for LMS / C-CAT mathematics lessons"
+readme = "README.md"
+# Manim's OpenGL deps (moderngl, glcontext) have no Python 3.14 wheels yet.
+requires-python = ">=3.11,<3.14"
+# Dependencies are pinned in requirements.txt (install with: python scripts/setup.py).
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+filterwarnings = [
+    # pydub (a Manim dependency) imports the deprecated audioop module; harmless.
+    "ignore:'audioop' is deprecated:DeprecationWarning",
+    "ignore::DeprecationWarning:pyannote.*",
+    "ignore::UserWarning:torchaudio.*",
+    "ignore:Using `httpx` with `starlette.testclient`",
+]

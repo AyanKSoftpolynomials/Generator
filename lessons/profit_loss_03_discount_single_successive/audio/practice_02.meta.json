@@ -1,0 +1,17 @@
+{
+  "input_hash": "e33f3c077adea4c72a1105a4",
+  "text": "Level two, question four: an article marked two thousand five hundred rupees is sold with successive discounts of twenty percent and ten percent; find the selling price. Question five: find the single discount equal to successive discounts of twenty-five percent and twenty percent. Question six: an article marked twelve hundred rupees is sold with successive discounts of ten percent and five percent; find the selling price.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "xtts_v2:tts_models/multilingual/multi-dataset/xtts_v2:coqui-tts-0.27.5",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 28.5766
+}
