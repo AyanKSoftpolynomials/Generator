@@ -1,0 +1,17 @@
+{
+  "input_hash": "b62c29e42e6e0a53b7e6b4e8",
+  "text": "That is reading it as a decimal number. In binary, each place is worth double the one to its right: eight, four, two, one. So one zero one one is eight, plus zero, plus two, plus one, which makes eleven.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 16.4629
+}

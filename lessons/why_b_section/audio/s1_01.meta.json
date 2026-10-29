@@ -1,0 +1,17 @@
+{
+  "input_hash": "2cd83a6d330181d4aab56478",
+  "text": "Here is a quick one. A shirt costs 800 rupees. Its price rises by ten percent, and then falls by ten percent. What is the final price?",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 9.2359
+}

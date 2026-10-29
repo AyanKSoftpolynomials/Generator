@@ -1,0 +1,17 @@
+{
+  "input_hash": "7b370b5698b3b712049a3152",
+  "text": "In the previous lecture, on Lesson 8: Algorithms and Pseudocode, we learned this: Plan the steps before coding them. An algorithm written as pseudocode can be traced before any machine runs it. Today's lecture builds on that.",
+  "voice": "narrator",
+  "voice_reference_hash": "f4566dac2b480ed2",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"shubh\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 12.0114
+}

@@ -1,0 +1,17 @@
+{
+  "input_hash": "822f283963335b0d32d43661",
+  "text": "That is the finish, output prediction and error detection, following the flow by hand to say exactly what it produces, and spotting where a chart goes wrong. The same skills the exam rewards.",
+  "voice": "aditya",
+  "voice_reference_hash": "05fad3d835cef067",
+  "voice_samples": [
+    "sample_01.wav"
+  ],
+  "language": "en",
+  "tts_settings": {
+    "engine_fingerprint": "sarvam:24000:{\"model\": \"bulbul:v3\", \"pace\": 1.0, \"speaker\": \"aditya\", \"voices\": {}}",
+    "sample_rate": 44100,
+    "loudness_lufs": -18,
+    "trim_silence": true
+  },
+  "duration": 15.043
+}
